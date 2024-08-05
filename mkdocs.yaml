@@ -43,6 +43,9 @@ markdown_extensions:
     - pymdownx.emoji:
           emoji_index: !!python/name:materialx.emoji.twemoji
           emoji_generator: !!python/name:materialx.emoji.to_svg
+          options:
+            custom_icons:
+              - extras/.icons
     - pymdownx.superfences:
         custom_fences:
             - name: mermaid
@@ -75,7 +78,10 @@ theme:
     logo: img/GA-logo.png
     favicon: img/ga4gh_circle.ico
     icon:
-        repo: fontawesome/brands/github-alt 
+        repo: fontawesome/brands/github-alt
+        admonition:
+          warning: lock
+          security: lock
     features:
         - content.tabs.link
         - search.highlight
