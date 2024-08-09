@@ -3,7 +3,7 @@ title: "Lauren Fromont"
 image_file: "lfromont.png"
 description: Project Manager Beacon
 date: 2020-01-01
-is_contact: true
+is_gone: true
 ---
 
 ![](/img/people/lfromont.png){: style="float: right; width: 120px; margin-top: -70px;"}

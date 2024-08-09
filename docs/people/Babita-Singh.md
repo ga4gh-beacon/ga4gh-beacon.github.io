@@ -4,6 +4,7 @@ date: 2020-01-16
 person_image_file: "bsingh.jpg"
 person_github_id: babisingh
 person_email: babita.singh@crg.eu
+is_gone: true
 ---
 
 * Structural Variants scout team lead

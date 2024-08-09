@@ -1,6 +1,7 @@
 ---
 title: "Manuel Rueda"
 date: 2020-01-01
+is_gone: true
 ---
 
 * Developer - Beacon Reference Implementation
