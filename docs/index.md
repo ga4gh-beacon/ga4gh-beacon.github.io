@@ -83,10 +83,10 @@ Among ELIXIR Spain TransBioNet and Bioinformatics in Barcelona members, a set of
 
 ### Beacon early implementers
 
-At the time of submission at the end of 2021, five Beacons were already implemented in the Beacon [Service Registry](https://ga4gh-approval-service-registry-demo.ega-archive.org).
+At the time of submission at the end of 2021, five Beacons were already implemented in a Beacon Service Registry.
 The "early implementers" actively participated in refining the Framework as they were responsible for spotting any issue they might encounter with the Framework or Model. 
 
-* European Genome-Phenome Archive [EGA Beacon](https://ga4gh-approval-beacon.ega-archive.org)
+* European Genome-Phenome Archive EGA Beacon
 * Progenetix' [Beacon+](https://progenetix.org/search/)
 * [Cafe Variome](https://beaconv2.cafevariome.org/form)
 * Fundación Progreso y Salud's [Beacon v2 API](https://csvs-beacon.clinbioinfosspa.es/csvs/ga4ghbeacon/v2/api/)
