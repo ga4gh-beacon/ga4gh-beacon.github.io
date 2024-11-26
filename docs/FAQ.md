@@ -191,4 +191,23 @@
     (NCIT:C3493) which are exclusive diagnoses. 
 
 
+??? question "Filters: ... how to respond if the filter hasn't been implemented?"
+
+    A filter which does not exist should lead to "no match" response. There is no
+    dedicated mechanism to disambiguate between a "the filter
+    is understood but there is no hit for this particular query" in contrast to
+    "no idea what this filter value means". However, the `/filtering_terms` endpoint
+    _should_ provide all supported filters and this can be used to check the two
+    possibilities if needed.
+
+??? question "Filters: ... how to respond if the filter target has incomplete values?"
+
+    For sparse data (e.g. a value being available only for a subset of samples; think
+    about "genetic sex" not being available or disclosed in a subset of individuals)
+    normally only the positive matches would be returned. Evaluation if what the
+    base of these numbers would be can be achieved through discretionary queries
+    (_i.e._ evaluating the alternative options) or through additional informational
+    responses (e.g. adding the overall observation count of a filter value to the
+    objects in the `/filtering_terms` response or aggregate information to a
+    dataset respone).
 
