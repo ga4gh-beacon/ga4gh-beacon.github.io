@@ -13,11 +13,11 @@ This website provides some general information about the GA4GH Beacon protocol.
 
 One of the main bottlenecks in human genomics research is lack of data. A Beacon is a genomics discovery tool which allows to aggregate worldwide genomics dataset through a shared query protocol. 
 
-Genomics data _in principle_ may allow the re-dentification of individuals in genomics data repositories which leads to a generally high level of protective measure being applied to such data. However, with the right choice of data sharing protocols, data security infrastructure and good health data practices, the sharing and discovery of genomics and related data can be possible and enable valuable insights into disease related as well as prognostic and lifestyle related  genomic variations. 
+Genomics data _in principle_ may allow the re-identification of individuals in genomics data repositories which leads to a generally high level of protective measure being applied to such data. However, with the right choice of data sharing protocols, data security infrastructure and good health data practices, the sharing and discovery of genomics and related data can be possible and enable valuable insights into disease related as well as prognostic and lifestyle related  genomic variations. 
 
 In order to promote personalised medicine, inclusive diagnostics, prognostic and therapeutic strategies, we cannot afford to keep the data completely "locked in". The Beacon API aims to solve this problem by enabling the search of genomic variants and associated information without jeopardising the privacy of the dataset. Any hospital or research entity can choose to 'beaconize' their omics dataset without compromising the privacy or the ownership of the dataset, thus helping the worldwide community of researchers and assisting science through the power of data.
 
-The Beacon Project is developed under a Global Alliance for Genomics and Health (GA4GH) Iniciative for the federated discovery of genomic data in biomedical research and clinical applications. 
+The Beacon Project is developed under a Global Alliance for Genomics and Health (GA4GH) Initiative for the federated discovery of genomic data in biomedical research and clinical applications. 
 
 ##  What is Beacon?
 
