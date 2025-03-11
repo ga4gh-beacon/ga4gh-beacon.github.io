@@ -15,27 +15,7 @@ The Beacon Project is developed under a Global Alliance for Genomics and Health 
 
 ##  What is the Beacon Standard?
 
-The Beacon protocol defines the programming interface ("API") for implementing individual beacon resources. A beacon resource uses the Beacon API usually extended with a that allows for data discovery of genomic and phenoclinic data.
-
-!!! note "Progenetix - A Beacon Implementation for Data Delivery in Oncogenomics"
-
-    The Progenetix oncogenomic website is built on top of a Beacon v2 implementation.
-    It provides an example for a data-rich resource and demonstrates Beacon queries
-    beyond allele discovery, with a focus on structural genome variations. More information
-    can be found at the Progenetix [documentation](https://docs.progenetix.org/) and on its [search page](https://progenetix.org/search/). 
-
-Originally, the Beacon protocol (versions 0 and 1) was limited to information about the presence/absence of a given, specific, genomic mutation in a set of data, from patients of a given disease or the population in general (Figure 2). Examples can be found in the [ELIXIR Beacon network page](https://beacon-network.elixir-europe.org). 
-
-![Beacon v1 principle](/img/Beacon-v1.png){: style="display: block; margin: auto; width: 500px"}
-###### Schematic example of "classical" Beacon query (up to version 1)
-
-!!! Warn "Move to Beacon v2"
-
-    With the release of Beacon v2 implementations of v1 and earlier are not longer supported.
-    Deployers of Beacon instances or networks are advised to migrate to v2 of the
-    standard. The functionality of Beacon v1 [can be easily implemented in v2](http://genomebeacons.org/FAQ/#v1-emulation). 
-
-The version 2 (v2) of the Beacon protocol has been accepted as GA4GH standard in Spring 2022. It includes, among other changes:
+The Beacon protocol defines the programming interface ("API") for implementing individual beacon resources. A beacon resource uses the Beacon API usually extended with a that allows for data discovery of genomic and phenoclinic data. Originally, the Beacon protocol (versions 0 and 1) was limited to information about the presence/absence of a given, specific, genomic mutation in a set of data, from patients of a given disease or the population in general. The version 2 (v2) of the Beacon protocol has been accepted as GA4GH standard in Spring 2022 and includes, among other changes:
 
 * Query options for biological or technical "meta"data using [**filters**](http://docs.genomebeacons.org/filters/) defined through CURIEs (e.g. phenotypes, disease codes, sex or age).
 * An option to trigger the next step in the **data access** process (e.g. who to contact or which are the data use conditions).
@@ -43,8 +23,22 @@ The version 2 (v2) of the Beacon protocol has been accepted as GA4GH standard in
 * **Annotations** about the variants found, among which the expert/clinician conclusion about the pathogenicity of a given mutation in a given individual or its role in producing a given phenotype.
 * Information about **cohorts**.
 
+!!! Warn "Move to Beacon v2"
 
-![Beacon v2 Network Specification](/img/Beacon-graphics-v2-network-960x540.png)
+    With the release of Beacon v2 implementations of v1 and earlier are not longer supported.
+    Deployers of Beacon instances or networks are advised to migrate to v2 of the
+    standard. The functionality of Beacon v1 [can be easily implemented in v2](http://genomebeacons.org/FAQ/#v1-emulation). 
+
+![Beacon v2 federation principle](/img/Beacon-graphics-v2-network-960x540.png)
+
+!!! note "Progenetix - Example of a Beacon Implementation for Data Delivery in Oncogenomics"
+
+    The Progenetix oncogenomic website is built on top of a Beacon v2 implementation.
+    It provides an example for a data-rich resource and demonstrates Beacon queries
+    beyond allele discovery, with a focus on structural genome variations. More information
+    can be found at the Progenetix [documentation](https://docs.progenetix.org/) and on its [search page](https://progenetix.org/search/). 
+
+
 ###### Schematic example of a Beacon query
 
 ## Beacon v2 technology
@@ -61,7 +55,6 @@ For further information please refer to the [Beacon v2 documentation](http://doc
 ## Beacon and Security
 
 Genomics data _in principle_ may allow the re-identification of individuals in genomics data repositories which leads to a generally high level of protective measure being applied to such data. However, with the right choice of data sharing protocols, data security infrastructure and good health data practices, the sharing and discovery of genomics and related data can be possible and enable valuable insights into disease related as well as prognostic and lifestyle related  genomic variations. 
-
 
 ## Acknowledgements
 
