@@ -8,7 +8,7 @@ links:
   - '[GA4GH events](https://www.ga4gh.org/news-events/events/#)'
 ---
 
-![elixir logo](/img/2024-GA4GH-Connect-Ascona-Logo.png){ style="width: 250px; float: right; margin: 0px 0px 10px 20px;" }
+![GA4GH logo](/img/2024-GA4GH-Connect-Ascona-Logo.png){ style="width: 250px; float: right; margin: 0px 0px 10px 20px;" }
 We're proud to host the next Spring GA4GH Connect meeting in April 2024 at the
 _Congressi Stefano Franscini_ on the Monte Verità in Ascona. This will provide an
 excellent opportunity for Swiss genomics and bioinformatics to, well, connect with
