@@ -1,5 +1,5 @@
 ---
-title: 'Beacon reference implementtaion in Bioinformatics'
+title: 'Beacon reference implementation in Bioinformatics'
 date: 2022-08-29
 template: post.html
 author: 
@@ -17,7 +17,7 @@ The Beacon team at the [European Genome-phenome Archive (EGA)](https://ega-archi
 
 <!--more-->
 
-B2RI follows the **Beacon v2 specification**, which since April 2022 defines an open [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/) standard for secure federated discovery of genomic and phenotypic data in biomedical esearch and clinical applications.
+B2RI follows the **Beacon v2 specification**, which since April 2022 defines an open [Global Alliance for Genomics and Health (GA4GH)](https://www.ga4gh.org/) standard for secure federated discovery of genomic and phenotypic data in biomedical research and clinical applications.
 
 This toolkit will facilitate the "beaconization" of data as implementing a [Beacon v2 API](https://beacon-project.io/) can be challenging for centers that may not have allocated resources for this purpose.
 
