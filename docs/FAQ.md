@@ -132,23 +132,29 @@
     ###### last change 2022-12-14 @mbaudis
 
 
-??? question "How can I add e.g. an age limit to a query for a disease?"
+??? faq "How can I add e.g. an age limit to a query for a disease?"
 
     Ages are queried as [ISO8601 durations](https://genomestandards.org/standards/dates-times/#durations)
-    such as `P65Y` (_i.e._ 65 years) with a comparator (`=`, `<=`, `>` ...). However,
-    the value needs an indication of _what_ the duration refers to and resources
+    such as `P65Y` (_i.e._ 65 years) using alphanumeric filters:
+
+    * `id` e.g. `age`
+    * `operator` e.g. `<=`
+    * `value` e.g. `P18Y`
+    * stringified for GET requests: `age:<=P18Y`
+
+    The value needs an indication of _what_ the duration refers to and resources
     may provide different ways to indicate this (as then shown in their `/filtering_terms`)
     endpoint).
 
     We recommend that all Beacon instances that support age queries support at
     minimum the syntax of `age:<=P65Y` and map such values to the internal datapoint
     most relevant for the resource's context (in most cases probably corresponding
-    to "age at diagniosis").
+    to "age at diagnosis").
 
     However, different scenarios may be supported (e.g. `EFO_0005056:<=P1Y6M` for
     an "age at death" scenario).
 
-    ###### last change 2023-05-31 by @mbaudis
+    ###### last change 2025-06-20 by @mbaudis
 
 ??? question "How can I handle haplotype queries & representation in Beacon v2?<a id="haplotypes"> </a>"
 
