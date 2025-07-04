@@ -1,3 +1,14 @@
+# ------------------------- Repository Settings ------------------------------ #
+
+site_name: Beacon Project Website
+site_description: 'Website for the GA4GH biomedical Beacon project'
+site_author: 'Michael Baudis, Laureen Fromont & Beacon Developers'
+copyright: '&copy; Copyright 2021-2025, Beacon Documentation Contributors'
+repo_name: 'ga4gh-beacon.github.io'
+repo_url: https://github.com/ga4gh-beacon/ga4gh-beacon.github.io
+edit_uri: edit/main/docs/
+repo_icon: " [:fontawesome-brands-github:](https://github.com/ga4gh-beacon/ga4gh-beacon.github.io/tree/main/docs)"
+
 # ------------------------ Navigation Menu ----------------------------------- #
 
 nav:
@@ -17,17 +28,6 @@ nav:
         - GA4GH::GenomeStandards &#8599;: http://genomestandards.org
         - GA4GH::SchemaBlocks &#8599;: http://schemablocks.org
         - GA4GH::Discovery &#8599;: http://ga4gh-discovery.github.io
-
-# ------------------------- Repository Settings ------------------------------ #
-
-site_name: Beacon v2 Project Website
-site_description: 'Website for Beacon v2'
-site_author: 'Michael Baudis, Laureen Fromont & Beacon Developers'
-copyright: '&copy; Copyright 2021-2024, Beacon v2 Documentation Contributors'
-repo_name: 'ga4gh-beacon.github.io'
-repo_url: https://github.com/ga4gh-beacon/ga4gh-beacon.github.io
-edit_uri: edit/main/docs/
-repo_icon: " [:fontawesome-brands-github:](https://github.com/ga4gh-beacon/ga4gh-beacon.github.io/tree/main/docs)"
 
 # ------------------- Mkdocs Configurattion and Extensions-------------------- #
 
