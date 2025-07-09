@@ -9,6 +9,8 @@
 
 One of the main bottlenecks in human genomics research is lack of data. A Beacon is a genomics discovery tool which allows to aggregate worldwide genomics dataset through a shared query protocol. 
 
+JULY 2025 HOLA.
+
 In order to promote personalised medicine, inclusive diagnostics, prognostic and therapeutic strategies, we cannot afford to keep the data completely "locked in". The Beacon API aims to solve this problem by enabling the search of genomic variants and associated information without jeopardising the privacy of the dataset. Any hospital or research entity can choose to 'beaconize' their omics dataset without compromising the privacy or the ownership of the dataset, thus helping the worldwide community of researchers and assisting science through the power of data.
 
 The Beacon Project is developed under a Global Alliance for Genomics and Health (GA4GH) Initiative for the federated discovery of genomic data in biomedical research and clinical applications. 
