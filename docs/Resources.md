@@ -1,6 +1,6 @@
 # Resources
 
-## Documentation and Websites ## 
+## Documentation and Websites
 
 <table style="border: 2px solid red;">
 <tr>
@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-## Key publications ## 
+## Key publications 
 
 [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 
