@@ -12,7 +12,7 @@ repo_icon: " [:fontawesome-brands-github:](https://github.com/AnaT-DCO/dev-beaco
 # ------------------------ Navigation Menu ----------------------------------- #
 
 nav:
-    - Introduction: /
+    - Introduction: index
     - Beacon Features: Beacon-Features
     - Deployment Guide: Deployment-Guide
     - Resources: Resources
