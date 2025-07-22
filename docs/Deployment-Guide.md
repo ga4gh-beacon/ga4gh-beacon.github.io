@@ -15,11 +15,8 @@ There are several ways to implement a Beacon v2 instance, depending on your reso
   > [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
 
 - **Utilize Existing Tools**: Leverage available software solutions and reference implementations provided by the Beacon community to simplify deployment.
-<p>
-		<img src="./img/progenetix-card.png" width="30%" height="auto"></img>
-		<img src="./img/variome-card.png" width="30%" height="auto"></img>
-		<img src="./img/beaconv2PI-card.png" width="30%" height="auto"></img>
-</p>
+
+![Progenetix card](./img/progenetix-card.png) ![Café Variome card](./img/variome-card.png) ![Beacon V2 Production Implementation](./img/beaconv2PI-card.png) 
 
 ## 3. Set up your internal database
 
