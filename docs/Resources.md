@@ -33,7 +33,7 @@
 </tr>
 <tr>
   <td>[Café Variome site]()</td>
-  <td>[ConvertPheno]() - two-sided conversion between various data standards and Beacon Friendly Format (BFF)</td>
+  <td>[ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) - two-sided conversion between various data standards and Beacon Friendly Format (BFF)</td>
 </tr>
 <tr>
   <td>[Beacon Network Github](https://github.com/elixir-europe/beacon-network-docker)</td>
