@@ -9,7 +9,9 @@ Familiarize yourself with the architecture of the Beacon specification, the stru
 ## 2. Choose your implementation approach
 There are several ways to implement a Beacon v2 instance, depending on your resources and expertise:
 - **Full Implementation**: Develop your own REST API that adheres to the Beacon v2 specification, connecting it to your internal database.
+  
   > [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
+
 - **Utilize Existing Tools**: Leverage available software solutions and reference implementations provided by the Beacon community to simplify deployment.
 <p>
 		<img src="./img/progenetix-card.png" width="30%" height="auto"></img>
