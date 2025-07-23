@@ -12,7 +12,7 @@ There are several ways to implement a Beacon v2 instance, depending on your reso
 
 - **Full Implementation**: Develop your own REST API that adheres to the Beacon v2 specification, connecting it to your internal database.
   
-  > [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
+  - [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
 
 - **Utilize Existing Tools**: Leverage available software solutions and reference implementations provided by the Beacon community to simplify deployment.
 
