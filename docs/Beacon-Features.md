@@ -3,15 +3,15 @@
 <table>
   <thead>
     <tr>
-      <th width="1200px"><img src="./img/Model-icon.png"></img></th>
+      <th width="1200px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model-icon.png?raw=true"></img></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>[Beacon Models](https://docs.genomebeacons.org/models/)</td>
+      <td align="center"><a href="https://docs.genomebeacons.org/models/">Beacon Models<a></td>
     </tr>
     <tr>
-      <td>[Beacon Schemas](https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/)</td>
+      <td align="center"><a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Beacon Schemas<a></td>
     </tr>
   </tbody>
 </table>
