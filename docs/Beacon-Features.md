@@ -1,21 +1,21 @@
 # Beacon Features
 
 ## Adaptable Framework
-![Icon](./img/Adaptable-icon.png)
-|:--:| 
+| ![Icon](./img/Adaptable-icon.png) |
+|-------| 
 | *Beacon offers a modular and adaptable framework that allows institutions to structure and share genomic data efficiently while maintaining compliance with standards.* |
 | [Beacon Framework](https://docs.genomebeacons.org/framework/) |
 
 ## Flexible Data Model
-![Icon](./img/Model-icon.png)
-|:--:| 
+| ![Icon](./img/Model-icon.png) |
+|-------| 
 | *Beacon supports multiple data collection types, accommodating different genomic and phenotypic data structures.* |
 | [Beacon Models](https://docs.genomebeacons.org/models/) |
 | [Beacon Schemas](https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/) |
 
 ## Rich Terminology Support
-![Icon](./img/Terminology-icon.png)
-|:--:| 
+| ![Icon](./img/Terminology-icon.png) |
+|-------|  
 | *Beacon provides an extensive set of standardized terms, supporting data annotation for diverse use cases.* |
 | [Beacon Terms](https://docs.genomebeacons.org/schemas-md/beacon_terms/) |
 
