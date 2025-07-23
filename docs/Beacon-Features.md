@@ -2,7 +2,7 @@
 
 ## Adaptable Framework
 | ![Icon](./img/Adaptable-icon.png) |
-|-------| 
+|: -------: | 
 | *Beacon offers a modular and adaptable framework that allows institutions to structure and share genomic data efficiently while maintaining compliance with standards.* |
 | [Beacon Framework](https://docs.genomebeacons.org/framework/) |
 
