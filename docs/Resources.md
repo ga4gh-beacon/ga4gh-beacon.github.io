@@ -2,43 +2,37 @@
 
 ## Documentation and Websites
 
-<table style="border: 2px solid red;">
-<tr>
-  <th>Implementation Toolkits</th>
-  <th>Helpful Resources</th>
-</tr>
-<tr>
-  <td>[Beacon Specification GitHub]()</td>
-  <td>[GA4GH Standards]()</td>
-</tr>
-<tr>
-  <td>[Beacon Specification Documentation]()</td>
-  <td>[GA4GH Schema Blocks]()</td>
-</tr>
-<tr>
-  <td>[Beacon V2 PI GitHub]()</td>
-  <td>[GA4GH Discovery Work Stream]()</td>
-</tr>
-<tr>
-  <td>[Beacon V2 PI Documentation]()</td>
-  <td>[CRG Beacon Verifier]() - configuration validation of Beacon instances</td>
-</tr>
-<tr>
-  <td>[Progenetix Bycon Github](https://github.com/progenetix/bycon)</td>
-  <td>[BSC Validator]() - configuration validation of Beacon instances</td>
-</tr>
-<tr>
-  <td>[Progenetix Bycon Documentation](https://bycon.progenetix.org/)</td>
-  <td>[Pheno-Ranker](https://pubmed.ncbi.nlm.nih.gov/39633268/) - two-sided comparison of Phenopackets v2 and Beacon Friendly Format (BFF)</td>
-</tr>
-<tr>
-  <td>[Café Variome site]()</td>
-  <td>[ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) - two-sided conversion between various data standards and Beacon Friendly Format (BFF)</td>
-</tr>
-<tr>
-  <td>[Beacon Network Github](https://github.com/elixir-europe/beacon-network-docker)</td>
-</tr>
-</table>
+### Implementation Toolkits
+
+[Beacon Specification GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
+
+[Beacon Specification Documentation](https://docs.genomebeacons.org/)
+
+[Beacon V2 PI GitHub](https://github.com/EGA-archive/beacon2-pi-api)
+
+[Beacon V2 PI Documentation](https://beacon-documentation-demo.ega-archive.org/)
+
+[Progenetix Bycon Github](https://github.com/progenetix/bycon/)
+
+[Progenetix Bycon Documentation](https://bycon.progenetix.org/)
+
+[Cafe Variome site](https://rd.discovery-nexus.org/)
+
+[Beacon Network Github](https://github.com/elixir-europe/beacon-network-docker)
+
+### Helpful Resources
+
+[Beacon as GA4GH Standard](https://www.ga4gh.org/product/beacon-api/)
+
+[CRG Beacon Verifier](https://beacon-verifier-demo.ega-archive.org/) - configuration validation of Beacon instances
+
+[BSC Validator](https://github.com/elixir-europe/neat-beacon-v2-validator) - configuration validation of Beacon instances
+
+[Pheno-Ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker) - two-sided comparison of Phenopackets v2 and Beacon Friendly Format (BFF)
+
+[ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) - two-sided conversion between various data standards and Beacon Friendly Format (BFF)
+
+[CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)
 
 ## Key publications 
 
