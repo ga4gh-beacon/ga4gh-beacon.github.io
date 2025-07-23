@@ -1,5 +1,21 @@
 # Beacon Features
 
+<table>
+  <thead>
+    <tr>
+      <th width="1200px"><img src="./img/Model-icon.png"></img></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[Beacon Models](https://docs.genomebeacons.org/models/)</td>
+    </tr>
+    <tr>
+      <td>[Beacon Schemas](https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/)</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Adaptable Framework
 | ![Icon](./img/Adaptable-icon.png) |
 | :-------: | 
