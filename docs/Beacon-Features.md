@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <th width="1200px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model-icon.png?raw=true"></img></th>
+      <th align="center" width="1200px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model-icon.png?raw=true"></img></th>
     </tr>
   </thead>
   <tbody>
