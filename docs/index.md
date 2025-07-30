@@ -24,7 +24,8 @@ Explore the feature that make data sharing with Beacon simple, flexible and scal
 
 ![Extensive Genomic Querying Options icon](./img/F4-icon.png) ![Configurable Data Access Control icon](./img/F5-icon.png) ![Beacon Network icon](./img/F6-icon.png)
 
-[Check all the features](#beacon-features_id)
+<a href="https://dev-beacon-web-ana.github.io/dev-beacon-web-ana.github.io/Beacon-Features">**Check all the features**</a>
 
 ## Announcements
 
+<a href="https://dev-beacon-web-ana.github.io/dev-beacon-web-ana.github.io/Announcements">**Check all the announcements**</a>
