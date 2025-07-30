@@ -28,7 +28,7 @@
     
 ??? question "Can I contribute to the development of the Beacon v2 specification?"
 
-    Beacon v2 is an open-source protocol and welcomes contributions from the community. Please refer to the [Beacon v2 repository](https://github.com/ga4gh-beacon/beacon-v2/) for creating any issues or discussions. Additionally, GA4GH Discovery Work Stream has established special task groups, called Beacon Scouts, that continue developing various aspects of the Beacon v2 protocol. Beacon Scouts are open to volunteer developers. Please find <a href="https://dev-beacon-web-ana.github.io/Team">further information here</a> and contact the Beacon managers upon interest.
+    Beacon v2 is an open-source protocol and welcomes contributions from the community. Please refer to the [Beacon v2 repository](https://github.com/ga4gh-beacon/beacon-v2/) for creating any issues or discussions. Additionally, GA4GH Discovery Work Stream has established special task groups, called Beacon Scouts, that continue developing various aspects of the Beacon v2 protocol. Beacon Scouts are open to volunteer developers. Please find <a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Team">further information here</a> and contact the Beacon managers upon interest.
 
 ??? question "Where to find the code for Beacon Network?"
 
