@@ -6,7 +6,7 @@ The GA4GH Beacon is an open, **global standard** for discovering biomedical data
 
 Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4GH Driver Projects](https://www.ga4gh.org/driver_project/elixir-beacon/). Similarly, Beacon is one of the critical components of another GA4GH Driver Project, the [Genomic Data Infrastructure](https://gdi.onemilliongenomes.eu/gdi-starter-kit.html), that is aiming to connect European countries and facilitate genomic data sharing and analysis. Numerous Beacon implementations exist worldwide.
 
-[<img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-video-frame-mini.png">](https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf)
+<a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video-frame-mini.png"></img></a>
 
 ## Beacon Project Timeline
 
