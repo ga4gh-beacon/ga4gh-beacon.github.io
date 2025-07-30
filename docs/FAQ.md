@@ -28,7 +28,7 @@
     
 ??? question "Can I contribute to the development of the Beacon v2 specification?"
 
-    Beacon v2 is an open-source protocol and welcomes contributions from the community. Please refer to the [Beacon v2 repository](https://github.com/ga4gh-beacon/beacon-v2/) for creating any issues or discussions. Additionally, GA4GH Discovery Work Stream has established special task groups, called Beacon Scouts, that continue developing various aspects of the Beacon v2 protocol. Beacon Scouts are open to volunteer developers. Please find [further information here](#meet-the-team_id) and contact the Beacon managers upon interest.
+    Beacon v2 is an open-source protocol and welcomes contributions from the community. Please refer to the [Beacon v2 repository](https://github.com/ga4gh-beacon/beacon-v2/) for creating any issues or discussions. Additionally, GA4GH Discovery Work Stream has established special task groups, called Beacon Scouts, that continue developing various aspects of the Beacon v2 protocol. Beacon Scouts are open to volunteer developers. Please find <a href="https://costero-e.github.io/dev-beacon-web-ana.github.io/docs/Team">further information here</a> and contact the Beacon managers upon interest.
 
 ??? question "Where to find the code for Beacon Network?"
 
@@ -212,8 +212,6 @@
 
 ## Security, Data Privacy & Usage Policies
 
-Aqui!!
-
 ??? question "What are the general security principles for Beacon?"
 
     An implementation of a Beacon must implement the Global Alliance for Genomics and Health ([GA4GH](https://www.ga4gh.org)) Beacon standard. The V2 standard has been approved by both the Regulatory and Ethics, and Data Security foundational workstreams.
@@ -226,123 +224,31 @@ Aqui!!
 
     Note that a Beacon may contain datasets (or collections of individuals) whose data is only accessible at specified tiers within the Beacon. This tiered access model allows the owner or controller of a Beacon to determine which responses are returned to whom depending on the query and the user who is making the request, for example to ensure the response respects the consent under which the data were collected. The ELIXIR Beacon network supports Beacons which respond at different tiers, for example only Beacons which have a response to anonymous queries need respond to an anonymous request. 
 
-    As part of the ELIXIR 2019-21 Beacon Network Implementation Study deliverable [D3.3](https://docs.google.com/document/d/1q7XuUB-Z4A_DogWT1AVrvkp_qHWWtbbICxokHup_tts/edit) a document has been written to describe security best practice for users interested in deploying or running a Beacon or users who govern data hosted within a Beacon, and the requirements for adding the Beacon to the ELIXIR Beacon network. As the Beacon standard extends in V2 towards supporting phenotype and range queries, the tiered access model becomes more important to ensure the Beacon response is appropriate to the underlying data.
-
+    As part of the ELIXIR 2019-21 Beacon Network Implementation Study deliverable [D3.3](https://docs.google.com/document/d/1q7XuUB-Z4A_DogWT1AVrvkp_qHWWtbbICxokHup_tts/edit?tab=t.0) a document has been written to describe security best practice for users interested in deploying or running a Beacon or users who govern data hosted within a Beacon, and the requirements for adding the Beacon to the ELIXIR Beacon network. As the Beacon standard extends in V2 towards supporting phenotype and range queries, the tiered access model becomes more important to ensure the Beacon response is appropriate to the underlying data.
 
 ??? security "How is security actually implemented when I deploy a Beacon?"
 
-    Security attributes are part of the Beacon v2 [Framework](https://github.com/ga4gh-beacon/beacon-v2/tree/main/framework). The file [`beaconConfiguration.json`](https://github.com/ga4gh-beacon/beacon-v2/blob/main/framework/json/configuration/beaconConfigurationSchema.json) defines the schema of the JSON file that includes core aspects of a Beacon instance configuration. Its third section, called **securityAttributes**, defines the security.
+    Security attributes are part of the Beacon v2 [Framework](https://github.com/ga4gh-beacon/beacon-v2/tree/main/framework). The file `beaconConfiguration.json` defines the schema of the JSON file that includes core aspects of a Beacon instance configuration. Its third section, called **securityAttributes**, defines the security.
 
     Check out the **securityAttributes** section on the [Beacon Documentation website](http://docs.genomebeacons.org/framework/#the-beacon-configuration-file).
 
+??? question "How does the Beacon maintain privacy and security?"
+
+    The Beacon v2 protocol mandates the use of HTTPS (encryption) and allows user-defined securityLevels (public, registered or controlled) and response granularities (boolean, count, record).
+
+??? question "Can I revoke access from certain users or organizations?"
+
+    Yes, user permissions can be updated or revoked at any time.
 
 ??? security "How do I test a Beacon without having to go through complex security matters (yet)?"
 
     As a Beacon is designed to support data discoverability of controlled access datasets, it is recommended that synthetic or artificial data is used for testing and initial deployment of Beacon instances. The use of synthetic data for testing is important in that it ensures that the full functionality of a Beacon can be tested and / or demonstrated without risk of exposing data from individuals. In addition to testing or demonstrating a deployment, synthetic data should be used for development, for example adding new features. Additionally, these data can also be used to demonstrate the access levels and data governance procedures for loading data to a Beacon to build trust with data controllers or data access committees who may be considering loading data to a Beacon. An example dataset that contains chromosome specific vcf files is hosted at EGA under dataset accession EGAD00001006673. While this dataset requires a user to log in to get access, the EGA test user can access this dataset.
 
-??? question "What types of genomic variants are supported in Beacon queries?"
+    ??? question "What authentication methods are available?"
 
-    Beacon v2.0 does not provide a mechanism to detect what types of genomic variant
-    queries are supported by a given instance.
+    * OIDC-based login (LifeScience, Keycloak, etc.)
+    * OAuth2 tokens for API access.
 
-    Beacon had been originally designed to handle the "simplest" type of genomic
-    variant queries in which a `position`, `alternateBases` (_i.e._ one or more base
-    sequence of the variant at the position) and - sometimes optional - the reference
-    sequence at this position (necessary e.g. for small deletions).
+??? question "Can I allow anonymous access but restrict sensitive queries?"
 
-    Beacon v1.1 in principle supported "bracketed" queries and a `variantType` parameter
-    (pointing to the VCF use) - see the [current documentation](https://docs.genomebeacons.org/variant-queries/#beacon-bracket-queries) for details. However, the support & interpretation was - and still is (2022-12-13) -
-    left to implementers. Similar for [Beacon Range Queries](https://docs.genomebeacons.org/variant-queries/#beacon-range-queries).
-
-    However, the [Beacon documentation](https://docs.genomebeacons.org/variant-queries/#varianttype-parameter-interpretation)
-    provides information about use and expected interpretation of `variantType` values, specifically
-    for copy number variations.
-
-    ###### last change 2022-12-14 @mbaudis
-
-
-??? question "How can I add e.g. an age limit to a query for a disease?"
-
-    Ages are queried as [ISO8601 durations](https://genomestandards.org/standards/dates-times/#durations)
-    such as `P65Y` (_i.e._ 65 years) using alphanumeric filters:
-
-    * `id` e.g. `age`
-    * `operator` e.g. `<=`
-    * `value` e.g. `P18Y`
-    * stringified for GET requests: `age:<=P18Y`
-
-    The value needs an indication of _what_ the duration refers to and resources
-    may provide different ways to indicate this (as then shown in their `/filtering_terms`)
-    endpoint).
-
-    We recommend that all Beacon instances that support age queries support at
-    minimum the syntax of `age:<=P65Y` and map such values to the internal datapoint
-    most relevant for the resource's context (in most cases probably corresponding
-    to "age at diagnosis").
-
-    However, different scenarios may be supported (e.g. `EFO_0005056:<=P1Y6M` for
-    an "age at death" scenario).
-
-    ###### last change 2025-06-20 by @mbaudis
-
-??? question "How can I handle haplotype queries & representation in Beacon v2?<a id="haplotypes"> </a>"
-
-    #### Queries
-
-    The Beacon framework currently (_v2.0_ and earlier) considers genomic
-    variants to be _allelic_ and does not support the query for multiple alleles
-    or "haplotype shorthand expressions" (e.g. `C,T`).
-
-    **Workarounds** In case of a specific need for haplotype queries implementers
-    of a given beacon with control of its data content in principle can extend their
-    query model to support shorthand haploype expressions, as long as they support
-    the standard format, too. However, such an approach may be superseeded or in conflict
-    with future direct protocol support.
-
-    An approach in line with the current protocol would be to query for one allelic
-    variant with a record-level `genomicVariation` response, and then query the
-    retrieved variants individually by their `id` in combination with the second
-    allele.
-
-    #### Variant representation
-
-    As with queries the Beacon "legacy" format does not support haplotype representation
-    but would represent each allelic variation separately. The same is true for the
-    VRSified variant representation which for v2.0 corresponds to VRS v1.2.
-    However, draft versions of the VRS standard (will) address haplotype and genotype
-    representations and will be adopted by Beacon v2.n after reaching a release state.
-
-
-??? question "Does the Beacon protocol support Boolean expressions?<a id="boolean-logic"> </a>"
-
-    No (...but). Beacon queries as of v2 always assume a logical **AND** between query parameters
-    and individual filters, _i.e._ all conditions have to be met. There is currently
-    no support for Boolean expressions.
-    However, a logical exception is the use of multiple filters for the same parameter which
-    a Beacon implementation should treat as a logical **OR** since they otherwise
-    would fail in most instances. E.g. the query using `NCIT:C3493` and `NCIT:C2926`
-    (mapped against `biosample.histological_diagnosis.id`) would match both
-    _Lung Non-Small Cell Carcinoma_ (NCIT:C2926) and _Lung Squamous Cell Carcinoma_
-    (NCIT:C3493) which are exclusive diagnoses. 
-
-
-??? question "Filters: ... how to respond if the filter hasn't been implemented?"
-
-    A filter which does not exist should lead to "no match" response. There is no
-    dedicated mechanism to disambiguate between a "the filter
-    is understood but there is no hit for this particular query" in contrast to
-    "no idea what this filter value means". However, the `/filtering_terms` endpoint
-    _should_ provide all supported filters and this can be used to check the two
-    possibilities if needed.
-
-??? question "Filters: ... how to respond if the filter target has incomplete values?"
-
-    For sparse data (e.g. a value being available only for a subset of samples; think
-    about "genetic sex" not being available or disclosed in a subset of individuals)
-    normally only the positive matches would be returned. Evaluation if what the
-    base of these numbers would be can be achieved through discretionary queries
-    (_i.e._ evaluating the alternative options) or through additional informational
-    responses (e.g. adding the overall observation count of a filter value to the
-    objects in the `/filtering_terms` response or aggregate information to a
-    dataset respone).
-
+    Yes, by defining public, registered and controlled access endpoints, and by configuring dataset/endpoint to return boolean/count response granularity.
