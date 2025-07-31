@@ -18,14 +18,34 @@
 
 ## Contributing Institutions
 
-![https://www.ga4gh.org/](./img/GA4GH-logo.png) ![https://elixir-europe.org/](./img/ELIXIR-logo.png) ![https://b1mg-project.eu/](./img/B1MG-logo.png) ![https://www.sib.swiss/](./img/SIB-logo.png) ![University of Zurich](./img/Zurich-logo.png)
+<a href="https://www.ga4gh.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GA4GH-logo.png">
+<a href="https://elixir-europe.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/ELIXIR-logo.png">
+<a href="https://b1mg-project.eu/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/B1MG-logo.png">
+<a href="https://www.sib.swiss"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/SIB-logo.png">
+<a href="https://www.uzh.ch/en.html"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Zurich-logo.png">
 
-![University of Leicester](./img/Leicester-logo.png) ![Cafe Variome Central](./img/Cafe-Variome-logo.png) ![https://ega-archive.org/](./img/EGA-logo.png) ![https://www.crg.eu/](./img/CRG-logo.png) ![https://www.bsc.es/](./img/BSC-logo.png)
+<a href="https://le.ac.uk/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Leicester-logo.png">
+<a href="https://central.cafevariome.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Cafe-Variome-logo.png">
+<a href="https://ega-archive.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/EGA-logo.png">
+<a href="https://www.crg.eu/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/CRG-logo.png">
+<a href="https://www.bsc.es/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/BSC-logo.png">
 
-![CSC](./img/CSC-logo.png) ![CNAG](./img/CNAG-logo.png) ![Genomics England](./img/Genomics-England-logo.png) ![CINECA](./img/CINECA-logo.png) ![DisGeNET](./img/DisGeNET-logo.png)
+<a href="https://csc.fi/en/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/CSC-logo.png">
+<a href="https://www.cnag.eu/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/CNAG-logo.png">
+<a href="https://www.genomicsengland.co.uk/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Genomics-England-logo.png">
+<a href="https://www.cineca-project.eu/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/CINECA-logo.png">
+<a href="https://disgenet.com/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/DisGeNET-logo.png">
 
-![H3Africa](./img/H3Africa-logo.png) ![DNA STACK](./img/DNASTACK-logo.png) ![Consejería de Salud de Andalucía](./img/Junta-And-logo.png) ![Logo](./img/Bulb-logo.png) ![GEM Japan](./img/GEM-Japan-logo.png)
+<a href="https://h3africa.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/H3Africa-logo.png">
+<a href="https://dnastack.com/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/DNASTACK-logo.png">
+![Consejería de Salud de Andalucía](./img/Junta-And-logo.png)
+![Logo](./img/Bulb-logo.png)
+<a href="https://www.amed.go.jp/en/aboutus/collaboration/ga4gh_gem_japan.html"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GEM-Japan-logo.png">
 
-![Inserm](./img/Inserm-logo.png) ![EUCanCAN](./img/EUCanCan-logo.png) ![ENA](./img/ENA-logo.png) ![BRCA Exchange](./img/BRCA-logo.png) ![Logo](./img/Birds-logo.png)
+<a href="https://www.inserm.fr/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Inserm-logo.png">
+![EUCanCAN](./img/EUCanCan-logo.png)
+<a href="https://www.ebi.ac.uk/ena/browser/home"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/ENA-logo.png">
+<a href="https://brcaexchange.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/BRCA-logo.png">
+![Logo](./img/Birds-logo.png)
 
-![AUTISM SPEAKS](./img/AUTISMSPEAK-logo.png)
+<a href="https://www.autismspeaks.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/AUTISMSPEAK-logo.png">
