@@ -28,4 +28,6 @@ Explore the feature that make data sharing with Beacon simple, flexible and scal
 
 ## Announcements
 
+<a href="https://www.ga4gh.org/get-involved/open-calls/#"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png"></img></a> <a href="https://www.ga4gh.org/event/13th-plenary/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png"></img></a> <a href="https://elixir-europe.org/events/elixir-all-hands-2025"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUN25_AHM.png"></img></a>
+
 <a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">**Check all the announcements**</a>
