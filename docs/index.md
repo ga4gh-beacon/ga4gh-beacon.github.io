@@ -1,3 +1,7 @@
+---
+template: news_list.html
+---
+
 # GA4GH Beacon project
 
 !!! note "Technical Documentation"
@@ -13,7 +17,7 @@ In order to promote personalised medicine, inclusive diagnostics, prognostic and
 
 The Beacon Project is developed under a Global Alliance for Genomics and Health (GA4GH) Initiative for the federated discovery of genomic data in biomedical research and clinical applications. 
 
-##  What is the Beacon Standard?
+## What is the Beacon Standard?
 
 The Beacon protocol defines the programming interface ("API") for implementing individual beacon resources. A beacon resource uses the Beacon API usually extended with a that allows for data discovery of genomic and phenoclinic data. Originally, the Beacon protocol (versions 0 and 1) was limited to information about the presence/absence of a given, specific, genomic mutation in a set of data, from patients of a given disease or the population in general. The version 2 (v2) of the Beacon protocol has been accepted as GA4GH standard in Spring 2022 and includes, among other changes:
 
@@ -89,3 +93,6 @@ The "early implementers" actively participated in refining the Framework as they
 * [Cafe Variome](https://beaconv2.cafevariome.org/form)
 * Fundación Progreso y Salud's [Beacon v2 API](https://csvs-beacon.clinbioinfosspa.es/csvs/ga4ghbeacon/v2/api/)
 * CNAG's [Beacon v2 API](https://playground.rd-connect.eu/beacon2/api)
+
+## Beacon News, Events and Publications
+

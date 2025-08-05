@@ -7,7 +7,7 @@
   {% for this_file in pages %}
     {% set this_page = this_file.page %}
     {% if this_page.meta is defined %}
-      {% if this_page.url.startswith(config.extra.news.dir) or this_page.url.startswith(config.extra.presentations.dir) or this_page.url.startswith(config.extra.publications.dir) %}
+      {% if this_page.url.startswith(config.extra.news.dir) or this_page.url.startswith(config.extra.publications.dir) %}
         {% if this_page.meta.date is defined %}
           {{ news_posts.append( this_page ) or "" }}
         {% endif %}

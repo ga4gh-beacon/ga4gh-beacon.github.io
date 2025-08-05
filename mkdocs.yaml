@@ -13,9 +13,9 @@ repo_icon: " [:fontawesome-brands-github:](https://github.com/ga4gh-beacon/ga4gh
 
 nav:
     - Introduction: /
-    - News & Events: news
+    - News, Events & Publications: /#beacon-news-events-and-publications
     - FAQ: FAQ
-    - Publications: publications
+    # - Publications: publications
     - People: people
     # - Protocols & Minutes: minutes
     - External Links:
@@ -95,7 +95,6 @@ theme:
         - navigation.instant
         - navigation.tracking
         - navigation.sections
-        - toc.integrate
 
 # Options
 extra:
