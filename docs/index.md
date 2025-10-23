@@ -8,11 +8,11 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 <a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video-frame-mini.png"></img></a>
 
-## Beacon Project Timeline
+# Beacon Project Timeline
 
 ![Beacon Timeline](./img/Timeline-vol2.svg)
 
-## Beacon in Numbers
+# Beacon in Numbers
 
 ![Beacon in Numbers](./img/Numbers-home.png)
 
@@ -26,7 +26,7 @@ Explore the feature that make data sharing with Beacon simple, flexible and scal
 
 <a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Beacon-Features">**Check all the features**</a>
 
-## Announcements
+# Announcements
 
 <a href="https://www.ga4gh.org/get-involved/open-calls/#"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png"></img></a> <a href="https://www.ga4gh.org/event/13th-plenary/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png"></img></a> <a href="https://elixir-europe.org/events/elixir-all-hands-2025"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUN25_AHM.png"></img></a>
 
