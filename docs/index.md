@@ -10,7 +10,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 ## Beacon Project Timeline
 
-![Beacon Timeline](./img/Timeline.png)
+![Beacon Timeline](./img/Timeline-vol2.svg)
 
 ## Beacon in Numbers
 
