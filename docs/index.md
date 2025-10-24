@@ -2,27 +2,49 @@
 
 The GA4GH Beacon is an open, **global standard** for discovering biomedical data across diverse domains. It allows institutions to make their datasets findable and facilitates **federated data discovery** across a network of independently operated Beacon instances - each responding to standardized queries while retaining local control. Beacon’s **extensible data model** accommodates a wide range of data types, from genomic variants to clinical data and metadata. Researchers can either check for the presence of a genomic variant (Yes/No response) or gain more detailed information through **structured queries**. Beacon v2 supports **flexible access controls** to meet project needs and legal requirements, either by keeping access public or define who can see what, and under which conditions.
 
-![Beacon v2 federation principle](./img/Beacon-graphics-v2-network-960x540.png)
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="700px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-graphics-v2-network-960x540.png?raw=true"></img></th>
+    </tr>
+  </thead>
+</table>
 
 Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4GH Driver Projects](https://www.ga4gh.org/driver_project/elixir-beacon/). Similarly, Beacon is one of the critical components of another GA4GH Driver Project, the [Genomic Data Infrastructure](https://gdi.onemilliongenomes.eu/gdi-starter-kit.html), that is aiming to connect European countries and facilitate genomic data sharing and analysis. Numerous Beacon implementations exist worldwide.
 
-<a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video-frame-mini.png"></img></a>
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="600px"><a href="https://youtu.be/Z13sklz9Ylk?si=Px1KB61tPkM2b1Xf"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video.png"></img></a></th>
+    </tr>
+  </thead>
+</table>
 
 # Beacon Project Timeline
 
-![Beacon Timeline](./img/Timeline-vol2.svg)
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="700px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Timeline-vol2.svg?raw=true"></img></th>
+    </tr>
+  </thead>
+</table>
 
 # Beacon in Numbers
 
-![Beacon in Numbers](./img/Numbers-home.png)
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="700px"><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Beacon-in-numbers.svg?raw=true"></img></th>
+    </tr>
+  </thead>
+</table>
 
 # The Beacon Features
 
-Explore the feature that make data sharing with Beacon simple, flexible and scalable.
+Explore the features that make data sharing with Beacon simple, flexible and scalable.
 
-![Adaptable Data Framework icon](./img/F1-icon.png) ![Flexible Data Model icon](./img/F2-icon.png) ![Rich Terminology Support icon](./img/F3-icon.png)
-
-![Extensive Genomic Querying Options icon](./img/F4-icon.png) ![Configurable Data Access Control icon](./img/F5-icon.png) ![Beacon Network icon](./img/F6-icon.png)
+![Features icons](./img/Icons-features-image.svg) 
 
 <a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Beacon-Features">**Check all the features**</a>
 
