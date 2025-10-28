@@ -12,13 +12,13 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video.png" alt="Beacon thumbnail" width="700")>
 </p>
 
-<h2 align="center">Beacon Project Timeline</h2> 
+<h3 align="center">Beacon Project Timeline</h3> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Timeline-vol2.svg" alt="Beacon timeline" width="700")>
 </p>
 
-<h2 align="center">Beacon in Numbers</h2>
+<h4 align="center">Beacon in Numbers</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img//Beacon-in-numbers.svg" alt="Beacon in numbers" width="700")>
