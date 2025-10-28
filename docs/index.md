@@ -12,7 +12,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-video.png" alt="Beacon thumbnail" width="700")>
 </p>
 
-<h3 align="center">Beacon Project Timeline</h3> 
+<h1 align="center">Beacon Project Timeline</h1> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Timeline-vol2.svg" alt="Beacon timeline" width="700")>
@@ -24,7 +24,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
   <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img//Beacon-in-numbers.svg" alt="Beacon in numbers" width="700")>
 </p>
 
-<h2 align="center">The Beacon Features</h2>
+<h1 align="center">The Beacon Features</h1>
 
 Explore the features that make data sharing with Beacon simple, flexible and scalable
 
@@ -32,8 +32,8 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 <p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Beacon-Features">Check all the features</a>.</p>
 
-<h2 align="center">Announcements</h2>
+<h1 align="center">Announcements</h1>
 
 <a href="https://www.ga4gh.org/get-involved/open-calls/#"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png"></img></a> <a href="https://www.ga4gh.org/event/13th-plenary/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png"></img></a> <a href="https://elixir-europe.org/events/elixir-all-hands-2025"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUN25_AHM.png"></img></a>
 
-<a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">**Check all the announcements**</a>
+<p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">Check all the announcements</a>.</p>
