@@ -10,13 +10,11 @@ Familiarize yourself with the architecture of the Beacon specification, the stru
 ## 2. Choose your implementation approach
 There are several ways to implement a Beacon v2 instance, depending on your resources and expertise:
 
-- **Full Implementation**: Develop your own REST API that adheres to the Beacon v2 specification, connecting it to your internal database.
-  
-    - [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
+- **Full Implementation**: Develop your own REST API that adheres to the Beacon v2 specification, connecting it to your internal database: [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
 
 - **Utilize Existing Tools**: Leverage available software solutions and reference implementations provided by the Beacon community to simplify deployment.
 
-![Progenetix card](./img/progenetix-card.png) ![Café Variome card](./img/variome-card.png) ![Beacon V2 Production Implementation](./img/beaconv2PI-card.png) 
+<a href="https://github.com/progenetix/bycon/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/progenetix-card.png">  <a href="https://rd.discovery-nexus.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/variome-card.png">  <a href="https://github.com/EGA-archive/beacon-production-prototype"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/beaconv2PI-card.png">
 
 ## 3. Set up your internal database
 
