@@ -15,7 +15,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 <h1 align="center">Beacon Project Timeline</h1> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Timeline-vol2.svg" alt="Beacon timeline" width="700")>
+  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Timeline-vol3.svg" alt="Beacon timeline" width="900")>
 </p>
 
 <h1 align="center">Beacon in Numbers</h1>
