@@ -1,13 +1,14 @@
-# Deployment Guide
+<h1 align="center">Deployment Guide</h1>
 
 Implementing your own Beacon instance allows you to share genomic and phenotypic data securely, facilitating global data discovery and collaboration. Here's a streamlined guide to help you set up your Beacon:
 
-## 1. Understand the Beacon Protocol
+<h2>1. Understand the Beacon Protocol</h2>
 
 Familiarize yourself with the architecture of the Beacon specification, the structure of the Framework and the schema of the Data Model. 
 > [Beacon Documentation](docs.genomebeacons.org)
 
-## 2. Choose your implementation approach
+<h3>2. Choose your implementation approach</h3>
+
 There are several ways to implement a Beacon v2 instance, depending on your resources and expertise:
 
 - **Full Implementation**: Develop your own REST API that adheres to the Beacon v2 specification, connecting it to your internal database: [Beacon v2 GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
