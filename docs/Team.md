@@ -2,21 +2,21 @@
 
 <h1 align="center"> Meet our team</h1>
 
-<h2>Project Leads</h2>
+<h3>Project Leads</h3>
 
 ![Anthony Brookes](./img/A-Brookes-card.png) ![Jordi Rambla](./img/J-Rambla-card.png) ![Michael Baudis](./img/M-Baudis-card.png)
 
-## Beacon Project Lead Contributors
+<h3>Beacon Project Lead Contributors</h3>
 
 ![Gordon Krieger](./img/G-Krieger-card.png) ![David Bujold](./img/D-Bujold-card.png) ![Oriol Lopez-Doriga Sagales](./img/O-Lopez-card.png)
 
 ![Maria Yazykova](./img/M-Yazykova.png) ![Dmitry Repchevsky](./img/D-Repchevsky-card.png) ![Tim Beck](./img/T-Beck-card.png)
 
-## Beacon Project Managers
+<h3>Beacon Project Managers</h3>
 
 ![Beatriz Amos](./img/B-Amos-card.png) ![Lina Nagirnaja](./img/L-Nagirnaja-card.png)
 
-## Contributing Institutions
+<h3>Contributing Institutions</h3>
 
 <a href="https://www.ga4gh.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GA4GH-logo.png">
 <a href="https://elixir-europe.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/ELIXIR-logo.png">
