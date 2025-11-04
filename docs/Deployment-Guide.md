@@ -2,7 +2,7 @@
 
 Implementing your own Beacon instance allows you to share genomic and phenotypic data securely, facilitating global data discovery and collaboration. Here's a streamlined guide to help you set up your Beacon:
 
-<h2>1. Understand the Beacon Protocol</h2>
+<h3>1. Understand the Beacon Protocol</h3>
 
 Familiarize yourself with the architecture of the Beacon specification, the structure of the Framework and the schema of the Data Model. 
 > [Beacon Documentation](docs.genomebeacons.org)
@@ -17,24 +17,24 @@ There are several ways to implement a Beacon v2 instance, depending on your reso
 
 <a href="https://github.com/progenetix/bycon/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/progenetix-card.png">  <a href="https://rd.discovery-nexus.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/variome-card.png">  <a href="https://github.com/EGA-archive/beacon-production-prototype"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/beaconv2PI-card.png">
 
-## 3. Set up your internal database
+<h3>3. Set up your internal database</h3>
 
 Ensure your genomic and associated phenotypic data are stored in a structured format compatible with the Beacon v2 data model and define your filtering terms.  This organization is crucial for seamless querying and data retrieval.
 > ***Note***: If using the CRG Beacon v2 Production Implementation (B2PI), this step is already handled. B2PI includes built-in support for data structuring, requiring only configuration of its components.
 
-## 4. Set your security and privacy parameters
+<h3>4. Set your security and privacy parameters</h3>
 
 Implement authentication and authorization mechanisms to control data access, ensuring compliance with ethical standards and regulations. 
 > ***Note***: Security and privacy mechanisms are integrated into the B2PI, reducing the setup effort to configuring the necessary components.
 
-## 5. Test your Beacon instance
+<h3>5. Test your Beacon instance</h3>
 
 Before going live, rigorously test your Beacon instance:
 - **Validation Tools**: Use the Beacon Verifier to ensure your implementation meets the required specifications.
 - **Community Feedback**: Engage with the Beacon community for insights and potential collaboration opportunities.
 > [Beacon Verifier](https://beacon-verifier-demo.ega-archive.org/)
 
-## 6. Deploy and maintain
+<h3>6. Deploy and maintain</h3>
 
 Once tested, deploy your Beacon instance and monitor its performance. Regular updates and maintenance are essential to align with evolving standards and to incorporate new features. 
 For comprehensive guidance and resources, visit the Beacon v2 Documentation and explore the GA4GH Beacon GitHub Repository.
