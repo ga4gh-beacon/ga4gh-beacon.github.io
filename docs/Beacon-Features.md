@@ -10,7 +10,7 @@
       <a href="https://docs.genomebeacons.org/framework/">Beacon Framework</a>
     </td>
     <td align="center" width="50%">
-      <h3>Flexible Data Model</h3><br><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model.svg?raw=true" alt="Flexible Data Model icon" width="250"><br>
+      <h3>Flexible Data Model</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model.svg?raw=true" alt="Flexible Data Model icon" width="250"><br>
    Beacon supports multiple data collection types, accommodating different genomic and phenotypic data structures.<br>
       <a href="https://docs.genomebeacons.org/models/">Beacon Models</a><br>
       <a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Beacon Schemas</a>
@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Rich Terminology Support</h3><br><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Terminology.svg?raw=true" alt="Terminology Support icon" width="250"><br>
+      <h3>Rich Terminology Support</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Terminology.svg?raw=true" alt="Terminology Support icon" width="250"><br>
   Beacon provides an extensive set of standardized terms, supporting data annotation for diverse use cases.<br>
       <a href="https://docs.genomebeacons.org/schemas-md/beacon_terms/">Beacon Terms</a>
     </td>
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Extensive Genomic Querying Options</h3><br><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Extensive.svg?raw=true" alt="Extensive Genomic Querying Options icon" width="250"><br>
+      <h3>Extensive Genomic Querying Options</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Extensive.svg?raw=true" alt="Extensive Genomic Querying Options icon" width="250"><br>
   Beacon enables a wide range of genomic queries, from simple to advanced searches, supporting diverse research needs.<br>
       <a href="https://docs.genomebeacons.org/variant-queries/">Beacon Genomic Variant Queries</a>
     </td>
@@ -56,7 +56,7 @@
       <a href="https://docs.genomebeacons.org/rest-api/">Beacon REST API</a>
     </td>
     <td align="center" width="50%">
-      <h3>Configurable Data Access Control</h3><br><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Access.svg?raw=true" alt="Configurable Data Access Control icon" width="250"><br>
+      <h3>Configurable Data Access Control</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Access.svg?raw=true" alt="Configurable Data Access Control icon" width="250"><br>
   Administrators can configure access permissions to ensure compliance with security standards. Data access  options include public, registered or controlled access.<br>
       <a href="https://docs.genomebeacons.org/security/?h=access">Beacon Security</a><br> 
       <a href="https://docs.genomebeacons.org/framework/#the-beacon-configuration-file">Beacon Configuration File</a>
@@ -82,7 +82,7 @@
 <table>
   <tr>
     <td align="center" widht="50%">
-      <h3>Beacon Network</h3><br><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Network.svg?raw=true" alt="Beacon Network icon" width="250"><br>
+      <h3>Beacon Network</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Network.svg?raw=true" alt="Beacon Network icon" width="250"><br>
   Supports federated querying across multiple Beacon instances, enabling genomic data discovery across different institutions.<br>
       <a href="https://docs.genomebeacons.org/networks/?h=acces">Beacon Networks and Aggregators</a>
     </td>
