@@ -1,7 +1,9 @@
-# Newsletter
+<h1 align="center"> Newsletter</h1>
 
-![Banner Beacon Newsletter](./img/Header-newsletter.png)
+<p align="center"
+  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Header-newsletter.png" alt="Banner Beacon Newsletter" width="900")>
+</p>
 
 [Sign me up!]()
 
-## Latest Newsletters
+<h3>Latest Newsletters</h3>
