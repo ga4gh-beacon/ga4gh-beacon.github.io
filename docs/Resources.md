@@ -1,8 +1,7 @@
-# Resources
+<h1 align="center">Resources</h1>
 
-## Documentation and Websites
-
-### Implementation Toolkits
+<h3>Documentation and Websites</h3>
+<strong>Implementation Toolkits</strong><br>
 
 [Beacon Specification GitHub](https://github.com/ga4gh-beacon/beacon-v2/)
 
@@ -18,9 +17,9 @@
 
 [Cafe Variome site](https://rd.discovery-nexus.org/)
 
-[Beacon Network Github](https://github.com/elixir-europe/beacon-network-docker)
+[Beacon Network Github](https://github.com/elixir-europe/beacon-network-docker)<br>
 
-### Helpful Resources
+<strong>Helpful Resources</strong>
 
 [Beacon as GA4GH Standard](https://www.ga4gh.org/product/beacon-api/)
 
@@ -32,9 +31,9 @@
 
 [ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) - two-sided conversion between various data standards and Beacon Friendly Format (BFF)
 
-[CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)
+[CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)<br>
 
-## Key publications 
+<h3>Key publications</h3> 
 
 ### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 >
