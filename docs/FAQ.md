@@ -1,6 +1,6 @@
-# Frequently Asked Questions
+<h1 align="center"> Frequently Asked Questions</h1>
 
-## Introduction to Beacon and Its Purpose
+<h3>Introduction to Beacon and Its Purpose</h3>
 
 ??? question "Is it `Beacon` or `beacon`?"
 
@@ -38,7 +38,7 @@
 
     Beacon v2 standard is primarily intended for data discovery and delivery and has been approved as such by the GA4GH.
 
-## Preparing Data for Beaconization
+<h3>Preparing Data for Beaconization</h3>
 
 ??? question "Does Beacon v2 API pre-process data?"
 
@@ -67,7 +67,7 @@
 
      Yes, you can update records data as needed while maintaining Beacon’s data access policies. The beacon doesn't need to be redeployed if only records (data) have been modified but depending on the implementation, reindexing the database might be needed (like in B2PI).
 
-## Setting Up a Beacon Instance
+<h3>Setting Up a Beacon Instance</h3>
 
 ??? question "Do I need a dedicated server to run a Beacon?"
 
@@ -148,7 +148,7 @@
 
     Submit an issue on the [Beacon GitHub repository](https://github.com/ga4gh-beacon/beacon-v2).
 
-## Querying Data in a Beacon
+<h3>Querying Data in a Beacon</h3>
 
 ??? question "What types of queries can I run on a Beacon?"
 
@@ -210,7 +210,7 @@
 
     Please make sure the implementation is developed using good standards and practices. If using a Reference/Production Implementation, then please make sure the server has enough memory and free CPU for optimized speed. Also, check the indexing of the database.
 
-## Security, Data Privacy & Usage Policies
+<h3>Security, Data Privacy & Usage Policies</h3>
 
 ??? question "What are the general security principles for Beacon?"
 
