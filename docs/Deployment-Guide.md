@@ -28,6 +28,7 @@ Implement authentication and authorization mechanisms to control data access, en
 > ***Note***: Security and privacy mechanisms are integrated into the B2PI, reducing the setup effort to configuring the necessary components.
 
 <h3>5. Test your Beacon instance</h3>
+
 Before going live, rigorously test your Beacon instance:
 <ul>
   <li><strong>Validation Tools</strong>: Use the Beacon Verifier to ensure your implementation meets the required specifications.</li>
@@ -37,6 +38,7 @@ Before going live, rigorously test your Beacon instance:
 > [Beacon Verifier](https://beacon-verifier-demo.ega-archive.org/)
 
 <h3>6. Deploy and maintain</h3>
+
 Once tested, deploy your Beacon instance and monitor its performance. Regular updates and maintenance are essential to align with evolving standards and to incorporate new features. 
 For comprehensive guidance and resources, visit the Beacon v2 Documentation and explore the GA4GH Beacon GitHub Repository.
 > [Beacon Documentation](docs.genomebeacons.org)<br>
