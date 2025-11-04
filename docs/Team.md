@@ -1,8 +1,8 @@
 <a id="meet-the-team_id"></a>
 
-# Meet our team
+<h1 align="center"> Meet our team</h1>
 
-## Project Leads
+<h2>Project Leads</h2>
 
 ![Anthony Brookes](./img/A-Brookes-card.png) ![Jordi Rambla](./img/J-Rambla-card.png) ![Michael Baudis](./img/M-Baudis-card.png)
 
