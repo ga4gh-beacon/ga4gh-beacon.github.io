@@ -3,7 +3,7 @@
 The GA4GH Beacon is an open, **global standard** for discovering biomedical data across diverse domains. It allows institutions to make their datasets findable and facilitates **federated data discovery** across a network of independently operated Beacon instances - each responding to standardized queries while retaining local control. Beacon’s **extensible data model** accommodates a wide range of data types, from genomic variants to clinical data and metadata. Researchers can either check for the presence of a genomic variant (Yes/No response) or gain more detailed information through **structured queries**. Beacon v2 supports **flexible access controls** to meet project needs and legal requirements, either by keeping access public or define who can see what, and under which conditions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Big-Beacon-schema.jpg" alt="Beacon general figure" width="700")>
+  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Big-Beacon-schema-redo.jpg" alt="Beacon general figure" width="700")>
 </p>
 
 Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4GH Driver Projects](https://www.ga4gh.org/driver_project/elixir-beacon/). Similarly, Beacon is one of the critical components of another GA4GH Driver Project, the [Genomic Data Infrastructure](https://gdi.onemilliongenomes.eu/gdi-starter-kit.html), that is aiming to connect European countries and facilitate genomic data sharing and analysis. Numerous Beacon implementations exist worldwide.
