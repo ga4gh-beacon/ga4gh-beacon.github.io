@@ -42,11 +42,12 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     padding: 20px;
     width: 280px;
     height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    display: inline-block;
     margin: 10px;
-    vertical-align: top;
-    text-align: center;
   ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270" style="border-radius: 8px;"><br>
     <strong>Beacon Implementers Forum</strong>
