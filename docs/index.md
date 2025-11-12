@@ -76,7 +76,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     <p style="
       font-size: 14px;
       margin: 10px 0;
-      height: 100px;
+      height: 120px;
     ">
       The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
