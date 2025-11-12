@@ -41,7 +41,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 450px;
+    height: 325px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
@@ -53,7 +53,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     <p style="
       font-size: 14px;
       margin: 10px 0;
-      height: 130px;
+      height: 135px;
     ">
       Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
@@ -64,7 +64,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 450px;
+    height: 325px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
