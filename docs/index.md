@@ -41,7 +41,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 325px;
+    height: 350px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
@@ -64,7 +64,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 325px;
+    height: 350px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
