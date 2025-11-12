@@ -53,19 +53,53 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
   </div>
 
-  <div style="
+<div style="
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 330px;
+    height: 400px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
     vertical-align: top;
   ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
-    <strong>GA4GH 13th Plenary</strong>
+    <strong>400-GA4GH 13th Plenary</strong>
+    <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
+    <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
+  </div>
+
+  <div style="
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 500px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+  ">
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
+    <strong>500-GA4GH 13th Plenary</strong>
+    <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
+    <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
+  </div>
+
+  <div style="
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 600px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+  ">
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
+    <strong>600-GA4GH 13th Plenary</strong>
     <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
     <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
   </div>
