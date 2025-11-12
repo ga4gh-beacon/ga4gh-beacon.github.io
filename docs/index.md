@@ -41,13 +41,13 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 330px;
+    height: 400px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
     vertical-align: top;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png" width="80"><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="80"><br>
     <strong>Beacon Implementers Forum</strong>
     <p>Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
@@ -64,48 +64,10 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     margin: 10px;
     vertical-align: top;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
-    <strong>400-GA4GH 13th Plenary</strong>
-    <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
-    <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="80"><br>
+    <strong>Beacon in the 13th Plenary Meeting Report</strong>
+    <p>The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
+    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
   </div>
-
-  <div style="
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 20px;
-    width: 280px;
-    height: 500px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    display: inline-block;
-    margin: 10px;
-    vertical-align: top;
-  ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
-    <strong>500-GA4GH 13th Plenary</strong>
-    <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
-    <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
-  </div>
-
-  <div style="
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 20px;
-    width: 280px;
-    height: 600px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    display: inline-block;
-    margin: 10px;
-    vertical-align: top;
-  ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
-    <strong>600-GA4GH 13th Plenary</strong>
-    <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
-    <a href="https://www.ga4gh.org/event/13th-plenary/">Check it out</a>
-  </div>
-
-</div>
-
-<a href="https://www.ga4gh.org/get-involved/open-calls/#"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png"></img></a> <a href="https://www.ga4gh.org/event/13th-plenary/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png"></img></a> <a href="https://elixir-europe.org/events/elixir-all-hands-2025"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUN25_AHM.png"></img></a>
 
 <p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">Check all the announcements</a>.</p>
