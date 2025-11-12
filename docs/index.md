@@ -53,7 +53,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     <p style="
       font-size: 14px;
       margin: 10px 0;
-      height: 100px;
+      height: 120px;
     ">
       Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
