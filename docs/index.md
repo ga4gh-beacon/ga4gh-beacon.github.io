@@ -48,7 +48,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     vertical-align: top;
     text-align: center;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270" style="border-radius: 8px;"><br><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270" style="border-radius: 8px;"><br>
     <strong>Beacon Implementers Forum</strong>
     <p style="
       font-size: 14px;
@@ -71,7 +71,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     vertical-align: top;
     text-align: center;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
     <strong>Beacon in the 13th Plenary Meeting Report</strong>
     <p style="
       font-size: 14px;
