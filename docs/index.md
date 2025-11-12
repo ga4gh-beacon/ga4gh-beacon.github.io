@@ -41,13 +41,13 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 400px;
+    height: 600px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
     vertical-align: top;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="80"><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270"><br>
     <strong>Beacon Implementers Forum</strong>
     <p>Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
@@ -58,13 +58,13 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     border-radius: 12px;
     padding: 20px;
     width: 280px;
-    height: 400px;
+    height: 600px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     display: inline-block;
     margin: 10px;
     vertical-align: top;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="80"><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="250"><br>
     <strong>Beacon in the 13th Plenary Meeting Report</strong>
     <p>The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
