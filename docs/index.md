@@ -36,14 +36,34 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 <div align="center">
 
-  <div style="background-color: #f9f9f9; border-radius: 12px; padding: 20px; width: 280px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: inline-block; margin: 10px;">
+  <div style="
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 330px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+  ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/NOV25_Forum.png" width="80"><br>
     <strong>Beacon Implementers Forum</strong>
     <p>Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
   </div>
 
-  <div style="background-color: #f9f9f9; border-radius: 12px; padding: 20px; width: 280px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: inline-block; margin: 10px;">
+  <div style="
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 330px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+  ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/OCT25_Plenary.png" width="80"><br>
     <strong>GA4GH 13th Plenary</strong>
     <p>GA4GH Beacon V" was represented at the GA4GH April Connect 2025 meeting. In total, four sessions featured Beacon V2.</p>
