@@ -46,10 +46,17 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     display: inline-block;
     margin: 10px;
     vertical-align: top;
+    text-align: center;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270"><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270" style="border-radius: 8px;"><br><br>
     <strong>Beacon Implementers Forum</strong>
-    <p>Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
+    <p style="
+      font-size: 14px;
+      margin: 10px 0;
+      height: 100px;
+      overflow: hidden;
+    ">
+      Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
   </div>
 
@@ -63,10 +70,17 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     display: inline-block;
     margin: 10px;
     vertical-align: top;
+    text-align: center;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="250"><br>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br><br>
     <strong>Beacon in the 13th Plenary Meeting Report</strong>
-    <p>The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
+    <p style="
+      font-size: 14px;
+      margin: 10px 0;
+      height: 100px;
+      overflow: hidden;
+    ">
+      The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
   </div>
 
