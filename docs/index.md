@@ -34,7 +34,12 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 <h1 align="center">Announcements</h1>
 
-<div align="center">
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+">
 
   <div style="
     background-color: #f9f9f9;
@@ -83,5 +88,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
       The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
   </div>
+
+</div>  
 
 <p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">Check all the announcements</a>.</p>
