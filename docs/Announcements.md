@@ -39,18 +39,12 @@
     ">
       Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
     <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
-  </div>
+  </div><br>
 
 ## Past events
 
 <a name="past-events"></a>
 
-<a href="https://www.ga4gh.org/open_call/join-the-beacon-implementers-forum/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUL25_Forum.png"></img></a> <a href="https://elixir-europe.org/events/elixir-all-hands-2025"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/JUN25_AHM.png"></img></a> <a href="https://www.ga4gh.org/event/april-connect-2025/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/APR25_Connect.png"></img></a> <a href="https://www.ga4gh.org/document/ga4gh-implementation-forum-gif-ask-me-anything-beacon/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/MAR24_Forum.png"></img></a>
-
 ## Beacon updates
 
 <a name="updates"></a>
-
-## Beacon-related publications
-
-<a name="publications"></a>
