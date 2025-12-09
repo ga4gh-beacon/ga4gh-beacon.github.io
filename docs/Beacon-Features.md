@@ -41,7 +41,7 @@
       <a href="https://docs.genomebeacons.org/variant-queries/">Beacon Genomic Variant Queries</a>
     </td>
     <td align="center" width="50%">
-       <h3>Powerful Query Filters</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Standardized.svg?raw=true" alt="Standardized Data Schema icon" width="200"><br>
+       <h3>Powerful Query Filters</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Magnifier.svg?raw=true" alt="Standardized Data Schema icon" width="200"><br>
       Built upon existing global standards (e.g. GA4GH Phenopackets and VRS), Beacon ensures seamless data integration and exchange between different research infrastructures.<br>
     <a href="https://docs.genomebeacons.org/formats-standards/">Beacon Formats, Standards and Integrations</a>
     </td>
