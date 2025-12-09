@@ -22,7 +22,7 @@
 
     No, data controllers can configure the access level to their data as being public, registered or controlled access. For more information, you can check [Beacon Security](https://docs.genomebeacons.org/security/?h=access) and [Beacon Configuration File pages](https://docs.genomebeacons.org/framework/#the-beacon-configuration-file).
 
-    ??? question "Where can I find official documentation on Beacon?"
+??? question "Where can I find official documentation on Beacon?"
 
     You can visit the official Beacon documentation for technical specifications, guides, and examples (docs.genomebeacons.org). For implementation toolkits, please refer to the Deployment Guide page.
     
@@ -244,7 +244,7 @@
 
     As a Beacon is designed to support data discoverability of controlled access datasets, it is recommended that synthetic or artificial data is used for testing and initial deployment of Beacon instances. The use of synthetic data for testing is important in that it ensures that the full functionality of a Beacon can be tested and / or demonstrated without risk of exposing data from individuals. In addition to testing or demonstrating a deployment, synthetic data should be used for development, for example adding new features. Additionally, these data can also be used to demonstrate the access levels and data governance procedures for loading data to a Beacon to build trust with data controllers or data access committees who may be considering loading data to a Beacon. An example dataset that contains chromosome specific vcf files is hosted at EGA under dataset accession EGAD00001006673. While this dataset requires a user to log in to get access, the EGA test user can access this dataset.
 
-    ??? question "What authentication methods are available?"
+??? question "What authentication methods are available?"
 
     * OIDC-based login (LifeScience, Keycloak, etc.)
     * OAuth2 tokens for API access.
