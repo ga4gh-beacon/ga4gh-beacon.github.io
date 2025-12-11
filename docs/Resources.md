@@ -11,6 +11,9 @@
   <li><a href="https://bycon.progenetix.org/">Progenetix Bycon Documentation</a></li>
   <li><a href="https://rd.discovery-nexus.org/">Cafe Variome site</a></li>
   <li><a href="https://github.com/elixir-europe/beacon-network-docker">Beacon Network GitHub</a></li>
+  <li><a href="https://github.com/EGA-archive/beacon-template-ui/tree/main">Beacon Template UI</a></li>
+  <li><a href="https://www.nature.com/articles/s41587-023-01972-9">sBeacon</a></li>
+  <li><a href="https://github.com/aehrc/AskBeacon">AskBeacon</a></li>
 </ul>
 <strong>Helpful Resources</strong><br>
 <ul>
