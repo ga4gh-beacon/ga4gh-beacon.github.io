@@ -53,3 +53,13 @@ Once tested, deploy your Beacon instance and monitor its performance. Regular up
 For comprehensive guidance and resources, visit the Beacon v2 Documentation and explore the GA4GH Beacon GitHub Repository.
 > [Beacon Documentation](docs.genomebeacons.org)<br>
 > [GA4GH Beacon GitHub Repository](https://github.com/ga4gh-beacon/ga4gh-beacon.github.io)
+
+<p>&nbsp;</p>
+
+<table>
+  <tr>
+    <td style="background-color:#f0f8ff; border-left:5px solid #4da3ff; padding:12px;">
+      If you already have a Beacon instance, we kindly invite you to share it with us through <a href="https://docs.google.com/forms/d/e/1FAIpQLScORwEVRAlsa8qe9SerKZLGy6qjphApjsHXC8-EcaOrUpW8tw/viewform">this registration form</a>.
+    </td>
+  </tr>
+</table>
