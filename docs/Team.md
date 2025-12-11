@@ -28,7 +28,7 @@
 
 <div align="center">
 
-![Beatriz Amos](./img/B-Amos-card.png) ![Lina Nagirnaja](./img/L-Nagirnaja-card.png)
+<img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/B-Amos-card.png" alt="Beatriz Amos"> <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/L-Nagirnaja-card.png" alt="Liina Nagirnajak">
 
 </div>
 
