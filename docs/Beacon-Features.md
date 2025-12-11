@@ -1,4 +1,4 @@
-<h1 align="center">Beacon Features</h1>
+<h1 align="center">Beacon Feature</h1>
 
 <div align="center">
 
