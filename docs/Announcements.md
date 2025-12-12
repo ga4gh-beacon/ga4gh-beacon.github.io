@@ -4,7 +4,7 @@
 1. [Incoming events](#incoming-events)
 2. [Past events](#past-events)
 
-## Incoming events
+<h1 align="center">Incoming events</h1>
 
 <a name="incoming-events"></a>
 
@@ -65,7 +65,7 @@
 
 </div><br>
 
-## Past events
+<h1 align="center">Past events</h1>
 
 <a name="past-events"></a>
 
