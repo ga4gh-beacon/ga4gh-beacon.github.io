@@ -54,15 +54,15 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/GIF-AMA-Beacon.jpg" width="270" style="border-radius: 8px;"><br>
-    <strong>Beacon Implementers Forum</strong>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
+    <strong>Next Beacon Implementers Forum: March the 25th</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
       height: 135px;
     ">
-      Second meeting with the Beacon Implementers Forum, aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon.</p>
-    <a href="https://www.ga4gh.org/get-involved/open-calls/">Check it out</a>
+      Beacon Implementers Forum is a meeting series aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon. In this meeting, the NAGEN-Data project will present their Beacon implementation.</p>
+    <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Check it out</a>
   </div>
 
 <div style="
@@ -78,17 +78,17 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
-    <strong>Beacon in the 13th Plenary Meeting Report</strong>
+    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
+    <strong>GA4GH April Connect 2026</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
       height: 120px;
     ">
-      The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
-    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
+      GA4GH April Connect 2026 will take place in Montreal, Canada, from 14 to 17 April 2026. Please follow the GA4GH channels and website for more information soon.</p>
+    <a href="https://www.ga4gh.org/event/april-connect-2026/">Check it out</a>
   </div>
 
-</div>  
+</div>
 
 <p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Announcements">Check all the announcements</a>.</p>
