@@ -61,7 +61,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
       margin: 10px 0;
       height: 135px;
     ">
-      Discover these meeting series aimed at fostering knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon. In this meeting, the NAGEN-Data project will present their Beacon implementation.</p>
+      These meeting series aim to foster knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon. In this meeting, the NAGEN-Data project will present their Beacon implementation.</p>
     <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Check it out</a>
   </div>
 
