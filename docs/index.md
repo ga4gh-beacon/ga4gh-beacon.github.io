@@ -55,13 +55,13 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     margin: 10px;
   ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
-    <strong>Beacon Implementers Forum</strong>
+    <strong>Next Beacon Implementers Forum: 2026-03-25</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
       height: 135px;
     ">
-      These meeting series aim to foster knowledge sharing and cross-community collaboration to support the integration and innovation of Beacon. In this meeting, the NAGEN-Data project will present their Beacon implementation.</p>
+      This meeting series focuses on knowledge sharing and collaboration to support Beacon's integration and innovation. The NAGEN-Data project will present its Beacon implementation in this session.</p>
     <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Check it out</a>
   </div>
 
