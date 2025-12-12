@@ -1,11 +1,11 @@
-<h1 align="center">Beacon Feature</h1>
+<h1 align="center">Beacon Features</h1>
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Adaptable Framework</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Adaptable-icon.png?raw=true" alt="Adaptable Framework icon" width="200"><br>
+      <h3>Adaptable Framework</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Adaptable.svg?raw=true" alt="Adaptable Framework icon" width="200"><br>
   Beacon offers a modular and adaptable framework that allows institutions to structure and share genomic data efficiently while maintaining compliance with standards.<br>
       <a href="https://docs.genomebeacons.org/framework/">Beacon Framework</a>
     </td>
