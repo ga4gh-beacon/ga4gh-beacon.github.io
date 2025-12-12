@@ -55,7 +55,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     margin: 10px;
   ">
     <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
-    <strong>Next Beacon Implementers Forum: March the 25th</strong>
+    <strong>Beacon Implementers Forum</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
