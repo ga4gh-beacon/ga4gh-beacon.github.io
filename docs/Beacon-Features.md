@@ -7,8 +7,7 @@
      <td align="center" width="50%">
       <h3>Flexible Data Model</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Model.svg?raw=true" alt="Flexible Data Model icon" width="200"><br>
    Beacon supports multiple data collection types, accommodating different genomic and phenotypic data structures.
-      <p> Beacon Schemas: <a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Analysis</a>, <a href="https://docs.genomebeacons.org/schemas-md/biosamples_defaultSchema/">Biosamples</a>, <a href="https://docs.genomebeacons.org/schemas-md/cohorts_defaultSchema/">Cohorts</a>, <a href="https://docs.genomebeacons.org/schemas-md/datasets_defaultSchema/">Datasets</a>, <a href="https://docs.genomebeacons.org/schemas-md/genomicVariations_defaultSchema/">Genomic Variations</a>, <a href="https://docs.genomebeacons.org/schemas-md/individuals_defaultSchema/">Individuals</a>, and <a href="https://docs.genomebeacons.org/schemas-md/runs_defaultSchema/">Runs</a>.</p>
-      <a href="https://docs.genomebeacons.org/models/">Beacon Model</a>
+      <p><a href="https://docs.genomebeacons.org/models/">Beacon Model</a> | Beacon Schemas: <a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Analysis</a>, <a href="https://docs.genomebeacons.org/schemas-md/biosamples_defaultSchema/">Biosamples</a>, <a href="https://docs.genomebeacons.org/schemas-md/cohorts_defaultSchema/">Cohorts</a>, <a href="https://docs.genomebeacons.org/schemas-md/datasets_defaultSchema/">Datasets</a>, <a href="https://docs.genomebeacons.org/schemas-md/genomicVariations_defaultSchema/">Genomic Variations</a>, <a href="https://docs.genomebeacons.org/schemas-md/individuals_defaultSchema/">Individuals</a>, and <a href="https://docs.genomebeacons.org/schemas-md/runs_defaultSchema/">Runs</a></p>
     </td>
   </tr>
 </table>
@@ -68,8 +67,7 @@
     <td align="center" width="50%">
       <h3>Configurable Data Access Control</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Access.svg?raw=true" alt="Configurable Data Access Control icon" width="200"><br>
   Administrators can configure access permissions to ensure compliance with security standards. Data access  options include public, registered or controlled access.<br>
-      <a href="https://docs.genomebeacons.org/security/">Beacon Security</a><br> 
-      <a href="https://docs.genomebeacons.org/framework/#the-beacon-configuration-file">Beacon Configuration File</a>
+      <a href="https://docs.genomebeacons.org/security/">Beacon Security</a> | <a href="https://docs.genomebeacons.org/framework/#the-beacon-configuration-file">Beacon Configuration File</a>
     </td>
   </tr>
 </table>
