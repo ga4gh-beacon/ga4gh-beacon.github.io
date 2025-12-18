@@ -81,7 +81,7 @@
     </td>
     <td align="center" width="50%">
       <h3>Handover Options</h3><img src="https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/blob/main/docs/img/Handover.svg?raw=true" alt="Handover Options icon" width="200"><br>
-  Facilitate data sharing by linking to external systems through standardized handover mechanisms.<br>
+  Facilitate data sharing by linking to external systems through standardized handover mechanisms.
       <a href="https://docs.genomebeacons.org/handovers/">Beacon Handovers</a>
     </td>
   </tr>
