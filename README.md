@@ -1,8 +1,8 @@
 # GA4GH Beacon Project website
 
-The main information site for the ELIXIR Beacon Project - i.e. the formatted content of this repository - can be accessed as [Beacon website](http://genomebeacons.org/). Detailed information about the Beacon technology can be found in the [Beacon v2 code repository](http://github.com/ga4gh-beacon/beacon-v2/) and on the [API documentation site](http://docs.genomebeacons.org).
+The main information site for the Beacon Project - i.e. the formatted content of this repository - can be accessed as [Beacon website](http://genomebeacons.org/). Detailed information about the Beacon technology can be found in the [Beacon v2 code repository](http://github.com/ga4gh-beacon/beacon-v2/) and on the [API documentation site](http://docs.genomebeacons.org).
 
-For more information about the project you may also consult the corresponding [ELIXIR website](https://www.elixir-europe.org/about-us/implementation-studies/beacons).
+For more information about the project, you may also consult the corresponding [ELIXIR website](https://www.elixir-europe.org/about-us/implementation-studies/beacons).
 
 ## Website Technology
 
