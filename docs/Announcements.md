@@ -100,4 +100,10 @@
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
   </div>
 
-</div>
+![Beacon Implementation Forum Logo](/img/Beacon-Implementation-Forum_MAR26.png){: style="width: 270px; border-radius: 8px;"}
+
+#### Next Beacon Implementers Forum: 2026-03-25
+
+This meeting series focuses on knowledge sharing and collaboration to support Beacon's integration and innovation. The NAGEN-Data project will present its Beacon implementation in this session.
+
+[Check it out](https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY)
