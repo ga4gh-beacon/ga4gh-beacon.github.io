@@ -17,13 +17,13 @@ There are several ways to implement a Beacon v2 instance, depending on your reso
 
 <div align="center">
   
-  <a href="https://github.com/progenetix/bycon/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/progenetix-card.png"></a>  <a href="https://rd.discovery-nexus.org/"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/variome-card.png"></a>  <a href="https://github.com/EGA-archive/beacon-production-prototype"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/beaconv2PI-card.png"></a>
+  <a href="https://github.com/progenetix/bycon/"><img src="/img/progenetix-card.png"></a>  <a href="https://rd.discovery-nexus.org/"><img src="/img/variome-card.png"></a>  <a href="https://github.com/EGA-archive/beacon-production-prototype"><img src="/img/beaconv2PI-card.png"></a>
 
 </div>
 
 <div align="center">
   
-  <a href="https://github.com/EGA-archive/beacon-template-ui/tree/main"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-template-UI-card.png"></a>  <a href="https://doi.org/10.1038/s41587-023-01972-9"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/sBeacon-card.png"></a>  <a href="https://github.com/aehrc/AskBeacon"><img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/AskBeacon-card.png"></a>
+  <a href="https://github.com/EGA-archive/beacon-template-ui/tree/main"><img src="/img/Beacon-template-UI-card.png"></a>  <a href="https://doi.org/10.1038/s41587-023-01972-9"><img src="/img/sBeacon-card.png"></a>  <a href="https://github.com/aehrc/AskBeacon"><img src="/img/AskBeacon-card.png"></a>
 
 </div>
 

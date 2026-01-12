@@ -3,7 +3,7 @@
 The GA4GH Beacon is an open, **global standard** for discovering biomedical data across diverse domains. It allows institutions to make their datasets findable and facilitates **federated data discovery** across a network of independently operated Beacon instances - each responding to standardized queries while retaining local control. Beacon’s **extensible data model** accommodates a wide range of data types, from genomic variants to clinical data and metadata. Researchers can either check for the presence of a genomic variant (Yes/No response) or gain more detailed information through **structured queries**. Beacon v2 supports **flexible access controls** to meet project needs and legal requirements, either by keeping access public or define who can see what, and under which conditions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Big-Beacon-schema-redo2.jpg" alt="Beacon general figure" width="800")>
+  <img src="/img/Big-Beacon-schema-redo2.jpg" alt="Beacon general figure" width="800")>
 </p>
 
 Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4GH Driver Projects](https://www.ga4gh.org/driver_project/elixir-beacon/). Similarly, Beacon is one of the critical components of another GA4GH Driver Project, the [Genomic Data Infrastructure](https://gdi.onemilliongenomes.eu/gdi-starter-kit.html), that is aiming to connect European countries and facilitate genomic data sharing and analysis. Numerous Beacon implementations exist worldwide.
@@ -15,13 +15,13 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 <h1 align="center">Beacon Project Timeline</h1> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Timeline-updated-DEC25.png" alt="Beacon timeline" width="900")>
+  <img src="/img/Timeline-updated-DEC25.png" alt="Beacon timeline" width="900")>
 </p>
 
 <h1 align="center">Beacon in Numbers</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Numbers-home-expanded.svg" alt="Beacon in numbers" width="800")>
+  <img src="/img/Numbers-home-expanded.svg" alt="Beacon in numbers" width="800")>
 </p><br>
 
 <h1 align="center">The Beacon Features</h1>
@@ -54,7 +54,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
+    <img src="/img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
     <strong>Next Beacon Implementers Forum: 2026-03-25</strong>
     <p style="
       font-size: 14px;
@@ -78,7 +78,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="https://raw.githubusercontent.com/AnaT-DCO/dev-beacon-web-ana.github.io/refs/heads/main/docs/img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
+    <img src="/img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
     <strong>GA4GH April Connect 2026</strong>
     <p style="
       font-size: 14px;
