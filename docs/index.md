@@ -28,7 +28,7 @@ Beacon has been widely adopted, with ELIXIR Beacon Network being one of the [GA4
 
 Explore the features that make data sharing with Beacon simple, flexible and scalable
 
-![Features icons](./img/Icons-features-image.svg) 
+![Features icons](./img/Icons-features-Home.svg) 
 
 <p align="center"><a href="https://anat-dco.github.io/dev-beacon-web-ana.github.io/Beacon-Features">Check all the features</a>.</p><br>
 
