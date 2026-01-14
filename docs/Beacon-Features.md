@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Adaptable Framework</h3><img src="./img/Adaptable.svg?raw=true" alt="Adaptable Framework icon" width="200"><br>
+      <h3>Adaptable Framework</h3><img src="./img/Adaptable.svg" alt="Adaptable Framework icon" width="200"><br>
   Beacon offers a modular and adaptable framework that allows institutions to structure and share genomic data efficiently while maintaining compliance with standards.<br>
       <a href="https://docs.genomebeacons.org/framework/">Beacon Framework</a>
     </td>
@@ -31,7 +31,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Rich Terminology Support</h3><img src="./img/Terminology.svg?raw=true" alt="Terminology Support icon" width="200"><br>
+      ### Rich Terminology Support
+      <img src="./img/Terminology.svg" alt="Terminology Support icon" width="200"><br>
   Beacon provides an extensive set of standardized terms, supporting data annotation for diverse use cases.<br>
       <a href="https://docs.genomebeacons.org/schemas-md/beacon_terms/">Beacon Terms</a>
     </td>
@@ -46,7 +47,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Extensive Genomic Querying Options</h3><img src="./img/Extensive.svg?raw=true" alt="Extensive Genomic Querying Options icon" width="200"><br>
+      <h3>Extensive Genomic Querying Options</h3><img src="./img/Extensive.svg" alt="Extensive Genomic Querying Options icon" width="200"><br>
   Beacon enables a wide range of genomic queries, from simple to advanced searches, supporting diverse research needs.<br>
       <a href="https://docs.genomebeacons.org/variant-queries/">Beacon Genomic Variant Queries</a>
     </td>
