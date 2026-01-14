@@ -1,6 +1,6 @@
 <h1 align="center">Resources</h1>
 
-<h3>Documentation and Websites</h3>
+### Documentation and Websites
 
 #### Implementation Toolkits
 
@@ -25,11 +25,7 @@
 * [ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) -  two-sided conversion between various data standards and Beacon Friendly Format (BFF)
 * [CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)
 
-<h3>Key publications</h3>
-
-### Key publications - tres alm
-
-## Key publications - dos alm
+### Key publications
 
 ### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 >
