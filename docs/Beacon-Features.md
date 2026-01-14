@@ -5,19 +5,21 @@
 <table>
   <tr>
      <td align="center" width="50%">
-      ### Flexible Data Model
-       <img src="./img/Model.svg" alt="Flexible Data Model icon" width="200")><br>
+      <h3>Flexible Data Model</h3><img src="./img/Model.svg" alt="Flexible Data Model icon" width="200")><br>
    Beacon supports multiple data collection types, accommodating different genomic and phenotypic data structures.
       <p><a href="https://docs.genomebeacons.org/models/">Beacon Model</a> | Beacon Schemas: <a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Analysis</a>, <a href="https://docs.genomebeacons.org/schemas-md/biosamples_defaultSchema/">Biosamples</a>, <a href="https://docs.genomebeacons.org/schemas-md/cohorts_defaultSchema/">Cohorts</a>, <a href="https://docs.genomebeacons.org/schemas-md/datasets_defaultSchema/">Datasets</a>, <a href="https://docs.genomebeacons.org/schemas-md/genomicVariations_defaultSchema/">Genomic Variations</a>, <a href="https://docs.genomebeacons.org/schemas-md/individuals_defaultSchema/">Individuals</a>, and <a href="https://docs.genomebeacons.org/schemas-md/runs_defaultSchema/">Runs</a></p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="./img/Big-Beacon-schema-redo2.jpg" alt="Beacon general figure" width="800")>
+</p>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      ### Adaptable Framework
-      <img src="./img/Adaptable.svg" alt="Adaptable Framework icon" width="200"><br>
+      <h3>Adaptable Framework</h3><img src="./img/Adaptable.svg" alt="Adaptable Framework icon" width="200"><br>
   Beacon offers a modular and adaptable framework that allows institutions to structure and share genomic data efficiently while maintaining compliance with standards.<br>
       <a href="https://docs.genomebeacons.org/framework/">Beacon Framework</a>
     </td>
@@ -32,8 +34,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      ### Rich Terminology Support
-      <img src="./img/Terminology.svg" alt="Terminology Support icon" width="200"><br>
+      <h3>Rich Terminology Support</h3><img src="./img/Terminology.svg" alt="Terminology Support icon" width="200"><br>
   Beacon provides an extensive set of standardized terms, supporting data annotation for diverse use cases.<br>
       <a href="https://docs.genomebeacons.org/schemas-md/beacon_terms/">Beacon Terms</a>
     </td>
