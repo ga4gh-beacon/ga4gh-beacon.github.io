@@ -25,31 +25,9 @@
 * [ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) -  two-sided conversion between various data standards and Beacon Friendly Format (BFF)
 * [CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)
 
-<strong>Implementation Toolkits</strong><br> 
-<ul>
-  <li><a href="https://github.com/ga4gh-beacon/beacon-v2/">Beacon Specification</a></li>
-  <li><a href="https://docs.genomebeacons.org/">Beacon Specification Documentation</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon2-pi-api">Beacon V2 PI GitHub</a></li>
-  <li><a href="https://beacon-documentation-demo.ega-archive.org/">Beacon V2 PI Documentation</a></li>
-  <li><a href="https://github.com/progenetix/bycon/">Progenetix Bycon GitHub</a></li>
-  <li><a href="https://bycon.progenetix.org/">Progenetix Bycon Documentation</a></li>
-  <li><a href="https://rd.discovery-nexus.org/">Cafe Variome site</a></li>
-  <li><a href="https://github.com/elixir-europe/beacon-network-docker">Beacon Network GitHub</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon-template-ui/tree/main">Beacon Template UI</a></li>
-  <li><a href="https://www.nature.com/articles/s41587-023-01972-9">sBeacon</a></li>
-  <li><a href="https://github.com/aehrc/AskBeacon">AskBeacon</a></li>
-</ul>
-<strong>Helpful Resources</strong><br>
-<ul>
-  <li><a href="https://www.ga4gh.org/product/beacon-api/">Beacon as GA4GH Standard</a></li>
-  <li><a href="https://beacon-verifier-demo.ega-archive.org/">CRG Beacon Verifier</a> - configuration validation of Beacon instances</li>
-  <li><a href="https://github.com/elixir-europe/neat-beacon-v2-validator">BSC Validator</a> - configuration validation of Beacon instances</li>
-  <li><a href="https://github.com/CNAG-Biomedical-Informatics/pheno-ranker">Pheno-Ranker</a> - two-sided comparison of Phenopackets v2 and Beacon Friendly Format (BFF)</li>
-  <li><a href="https://github.com/CNAG-Biomedical-Informatics/convert-pheno">ConvertPheno</a> -  two-sided conversion between various data standards and Beacon Friendly Format (BFF)</li>
-  <li><a href="https://github.com/mirgin01/phenopackets-to-BFF">CRG Phenopackets-to-BFF converter</a></li>
-</ul>
-
-<h3>Key publications</h3> 
+<h3>Key publications</h3>
+### Key publications - tres alm
+## Key publications - dos alm
 
 ### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 >
