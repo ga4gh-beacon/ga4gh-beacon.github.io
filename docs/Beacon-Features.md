@@ -5,7 +5,8 @@
 <table>
   <tr>
      <td align="center" width="50%">
-      <h3>Flexible Data Model</h3><img src="./img/Model.svg?raw=true" alt="Flexible Data Model icon" width="200"><br>
+      <h3>Flexible Data Model</h3>
+       <img src="./img/Model.svg?raw=true" alt="Flexible Data Model icon" width="200"><br>
    Beacon supports multiple data collection types, accommodating different genomic and phenotypic data structures.
       <p><a href="https://docs.genomebeacons.org/models/">Beacon Model</a> | Beacon Schemas: <a href="https://docs.genomebeacons.org/schemas-md/analyses_defaultSchema/">Analysis</a>, <a href="https://docs.genomebeacons.org/schemas-md/biosamples_defaultSchema/">Biosamples</a>, <a href="https://docs.genomebeacons.org/schemas-md/cohorts_defaultSchema/">Cohorts</a>, <a href="https://docs.genomebeacons.org/schemas-md/datasets_defaultSchema/">Datasets</a>, <a href="https://docs.genomebeacons.org/schemas-md/genomicVariations_defaultSchema/">Genomic Variations</a>, <a href="https://docs.genomebeacons.org/schemas-md/individuals_defaultSchema/">Individuals</a>, and <a href="https://docs.genomebeacons.org/schemas-md/runs_defaultSchema/">Runs</a></p>
     </td>
