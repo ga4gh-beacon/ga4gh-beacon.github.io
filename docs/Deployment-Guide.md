@@ -56,5 +56,7 @@ For comprehensive guidance and resources, visit the Beacon v2 Documentation and 
 
 <p>&nbsp;</p>
 
-> **Note**  
+---
+
+> **Important**  
 > If you already have a Beacon instance, we kindly invite you to share it with us through [this registration form](https://docs.google.com/forms/d/e/1FAIpQLScORwEVRAlsa8qe9SerKZLGy6qjphApjsHXC8-EcaOrUpW8tw/viewform).
