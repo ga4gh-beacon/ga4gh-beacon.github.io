@@ -28,7 +28,7 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="./img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
+    <img src="../img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
     <strong>Next Beacon Implementers Forum: 2026-03-25</strong>
     <p style="
       font-size: 14px;
@@ -52,7 +52,7 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="./img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
+    <img src="../img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
     <strong>GA4GH April Connect 2026</strong>
     <p style="
       font-size: 14px;
@@ -89,7 +89,7 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="./img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
+    <img src="../img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
     <strong>Beacon in the 13th Plenary Meeting Report</strong>
     <p style="
       font-size: 14px;
