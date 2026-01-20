@@ -2,17 +2,17 @@
 
 site_name: Beacon Project Website
 site_description: 'Website for the GA4GH biomedical Beacon project'
-site_author: 'Michael Baudis, Laureen Fromont & Beacon Developers'
-copyright: '&copy; Copyright 2021-2025, Beacon Documentation Contributors'
+site_author: 'Michael Baudis, Ana Alonso Ayuso, Laureen Fromont & Beacon Developers'
+copyright: '&copy; Copyright 2021-2026, Beacon Documentation Contributors'
 repo_name: 'dev-beacon-web-ana.github.io'
 repo_url: https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io
 edit_uri: edit/main/docs/
-repo_icon: " [:fontawesome-brands-github:](https://github.com/AnaT-DCO/dev-beacon-web-ana.github.io/tree/main/docs)"
+repo_icon: " [:fontawesome-brands-github:](https://github.com/ga4gh-beacon/ga4gh-beacon.github.io/tree/main/docs)"
 
 # ------------------------ Navigation Menu ----------------------------------- #
 
 nav:
-    - Introduction: index
+    - Introduction: /
     - Beacon Features: Beacon-Features
     - Deployment Guide: Deployment-Guide
     - Resources: Resources
@@ -55,7 +55,7 @@ markdown_extensions:
     - tables
     - mdx_gh_links:
         user: ga4gh-beacon
-        repo: beacon-v2
+        repo: ga4gh-beacon.github.io
     - pymdownx.emoji:
           emoji_index: !!python/name:materialx.emoji.twemoji
           emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -101,8 +101,6 @@ extra:
   contacts:
     dir: people
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/genomebeacons
     - icon: fontawesome/brands/github 
       link: https://github.com/ga4gh-beacon
 
