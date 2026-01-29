@@ -20,6 +20,7 @@ nav:
     - Newsletter: Newsletter
     - FAQs: FAQ
     - How to cite Beacon?: How-to-cite-Beacon
+    - API Documentation: https://docs.genomebeacons.org
 
 # ------------------- Mkdocs Configurattion and Extensions-------------------- #
 
