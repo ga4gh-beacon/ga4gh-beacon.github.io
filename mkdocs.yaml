@@ -4,8 +4,8 @@ site_name: Beacon Project Website
 site_description: 'Website for the GA4GH biomedical Beacon project'
 site_author: 'Michael Baudis, Ana Alonso Ayuso, Laureen Fromont & Beacon Developers'
 copyright: '&copy; Copyright 2021-2026, Beacon Documentation Contributors'
-repo_name: 'ga4gh-beacon.github.io'
-repo_url: https://github.com/ga4gh-beacon/ga4gh-beacon.github.io
+repo_name: "{{ site.github.repository_name }}"
+repo_url: "{{ site.github.repository_url }}"
 edit_uri: edit/main/docs/
 repo_icon: " [:fontawesome-brands-github:](https://github.com/ga4gh-beacon/ga4gh-beacon.github.io/tree/main/docs)"
 
