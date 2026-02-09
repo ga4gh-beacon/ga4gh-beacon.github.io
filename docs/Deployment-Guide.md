@@ -5,7 +5,7 @@ Implementing your own Beacon instance allows you to share genomic and phenotypic
 ### 1. Understand the Beacon Protocol
 
 Familiarize yourself with the architecture of the Beacon specification, the structure of the Framework and the schema of the Data Model. 
-> [Beacon Documentation](docs.genomebeacons.org)
+> [Beacon API Documentation](https://docs.genomebeacons.org)
 
 ### 2. Choose your implementation approach
 

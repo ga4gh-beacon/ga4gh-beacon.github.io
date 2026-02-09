@@ -24,7 +24,7 @@
 
 ??? question "Where can I find official documentation on Beacon?"
 
-    You can visit the official Beacon documentation for technical specifications, guides, and examples (docs.genomebeacons.org). For implementation toolkits, please refer to the Deployment Guide page.
+    You can visit the official Beacon documentation for technical specifications, guides, and examples (https://docs.genomebeacons.org). For implementation toolkits, please refer to the Deployment Guide page.
     
 ??? question "Can I contribute to the development of the Beacon v2 specification?"
 
