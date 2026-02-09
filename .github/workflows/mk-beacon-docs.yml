@@ -16,4 +16,7 @@ jobs:
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install pymdown-extensions
       - run: pip install mdx_gh_links
+      - name: Set repo URL for MkDocs
+        run: |
+          echo "GITHUB_REPOSITORY_URL=https://github.com/${GITHUB_REPOSITORY}" >> $GITHUB_ENV
       - run: mkdocs gh-deploy --force
