@@ -12,7 +12,7 @@ controls** to meet project needs and legal requirements, either by keeping acces
 public or define who can see what, and under which conditions.
 
 <p align="center">
-  <img src="/img/Big-Beacon-schema-redo2.jpg" alt="Beacon general figure" width="800")>
+  <img src="./img/Big-Beacon-schema-redo2.jpg" alt="Beacon general figure" width="800")>
 </p>
 
 Beacon has been widely adopted, with ELIXIR Beacon Network being one of the
@@ -22,19 +22,19 @@ aiming to connect European countries and facilitate genomic data sharing and ana
 Numerous Beacon implementations exist worldwide.
 
 <p align="center">
-  <a href="https://youtu.be/Z13sklz9Ylk?si=6d-aDNeBKEMMgNxP"><img src="/img/Beacon-video.png" alt="Beacon thumbnail" width="650")></a>
+  <a href="https://youtu.be/Z13sklz9Ylk?si=6d-aDNeBKEMMgNxP"><img src="./img/Beacon-video.png" alt="Beacon thumbnail" width="650")></a>
 </p><br>
 
 <h1 align="center">Beacon Project Timeline</h1> 
 
 <p align="center">
-  <img src="/img/Timeline-updated-DEC25.png" alt="Beacon timeline" width="900")>
+  <img src="./img/Timeline-updated-DEC25.png" alt="Beacon timeline" width="900")>
 </p>
 
 <h1 align="center">Beacon in Numbers</h1>
 
 <p align="center">
-  <img src="/img/Numbers-home-expanded.svg" alt="Beacon in numbers" width="800")>
+  <img src="./img/Numbers-home-expanded.svg" alt="Beacon in numbers" width="800")>
 </p><br>
 
 <h1 align="center">The Beacon Features</h1>
@@ -67,7 +67,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="/img/Beacon-Implementation-Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
+    <img src="./img/Beacon-Implementation-Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
     <strong>Next Beacon Implementers Forum: 2026-03-25</strong>
     <p style="
       font-size: 14px;
@@ -91,7 +91,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="/img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
+    <img src="./img/montreal-canada.jpg" width="270" style="border-radius: 8px;"><br>
     <strong>GA4GH April Connect 2026</strong>
     <p style="
       font-size: 14px;

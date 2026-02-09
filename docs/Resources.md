@@ -1,31 +1,31 @@
 <h1 align="center">Resources</h1>
 
-<h3>Documentation and Websites</h3>
-<strong>Implementation Toolkits</strong><br>
-<ul>
-  <li><a href="https://github.com/ga4gh-beacon/beacon-v2/">Beacon Specification</a></li>
-  <li><a href="https://docs.genomebeacons.org/">Beacon Specification Documentation</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon2-pi-api">Beacon V2 PI GitHub</a></li>
-  <li><a href="https://beacon-documentation-demo.ega-archive.org/">Beacon V2 PI Documentation</a></li>
-  <li><a href="https://github.com/progenetix/bycon/">Progenetix Bycon GitHub</a></li>
-  <li><a href="https://bycon.progenetix.org/">Progenetix Bycon Documentation</a></li>
-  <li><a href="https://rd.discovery-nexus.org/">Cafe Variome site</a></li>
-  <li><a href="https://github.com/elixir-europe/beacon-network-docker">Beacon Network GitHub</a></li>
-  <li><a href="https://github.com/EGA-archive/beacon-template-ui/tree/main">Beacon Template UI</a></li>
-  <li><a href="https://www.nature.com/articles/s41587-023-01972-9">sBeacon</a></li>
-  <li><a href="https://github.com/aehrc/AskBeacon">AskBeacon</a></li>
-</ul>
-<strong>Helpful Resources</strong><br>
-<ul>
-  <li><a href="https://www.ga4gh.org/product/beacon-api/">Beacon as GA4GH Standard</a></li>
-  <li><a href="https://beacon-verifier-demo.ega-archive.org/">CRG Beacon Verifier</a> - configuration validation of Beacon instances</li>
-  <li><a href="https://github.com/elixir-europe/neat-beacon-v2-validator">BSC Validator</a> - configuration validation of Beacon instances</li>
-  <li><a href="https://github.com/CNAG-Biomedical-Informatics/pheno-ranker">Pheno-Ranker</a> - two-sided comparison of Phenopackets v2 and Beacon Friendly Format (BFF)</li>
-  <li><a href="https://github.com/CNAG-Biomedical-Informatics/convert-pheno">ConvertPheno</a> -  two-sided conversion between various data standards and Beacon Friendly Format (BFF)</li>
-  <li><a href="https://github.com/mirgin01/phenopackets-to-BFF">CRG Phenopackets-to-BFF converter</a></li>
-</ul>
+### Documentation and Websites
 
-<h3>Key publications</h3> 
+#### Implementation Toolkits
+
+* [Beacon Specification](https://github.com/ga4gh-beacon/beacon-v2/)
+* [Beacon Specification Documentation](https://docs.genomebeacons.org/)
+* [Beacon V2 PI GitHub](https://github.com/EGA-archive/beacon2-pi-api)
+* [Beacon V2 PI Documentation](https://beacon-documentation-demo.ega-archive.org/)
+* [Progenetix Bycon GitHub](https://github.com/progenetix/bycon/)
+* [Progenetix Bycon Documentation](https://bycon.progenetix.org/)
+* [Cafe Variome site](https://rd.discovery-nexus.org/)
+* [Beacon Network GitHub](https://github.com/elixir-europe/beacon-network-docker)
+* [Beacon Template UI](https://github.com/EGA-archive/beacon-template-ui/tree/main)
+* [sBeacon](https://www.nature.com/articles/s41587-023-01972-9)
+* [AskBeacon](https://github.com/aehrc/AskBeacon)
+
+#### Helpful Resources
+
+* [Beacon as GA4GH Standard](https://www.ga4gh.org/product/beacon-api/)
+* [CRG Beacon Verifier](https://beacon-verifier-demo.ega-archive.org/) - configuration validation of Beacon instances
+* [BSC Validator](https://github.com/elixir-europe/neat-beacon-v2-validator) - configuration validation of Beacon instances
+* [Pheno-Ranker](https://github.com/CNAG-Biomedical-Informatics/pheno-ranker) - two-sided comparison of Phenopackets v2 and Beacon Friendly Format (BFF)
+* [ConvertPheno](https://github.com/CNAG-Biomedical-Informatics/convert-pheno) -  two-sided conversion between various data standards and Beacon Friendly Format (BFF)
+* [CRG Phenopackets-to-BFF converter](https://github.com/mirgin01/phenopackets-to-BFF)
+
+### Key publications
 
 ### [**Twelve quick tips for deploying a Beacon**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011817)
 >
