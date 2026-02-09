@@ -67,7 +67,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="./img/Beacon-Implementation- Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
+    <img src="./img/Beacon-Implementation-Forum_MAR26.png" width="270" style="border-radius: 8px;"><br>
     <strong>Next Beacon Implementers Forum: 2026-03-25</strong>
     <p style="
       font-size: 14px;
