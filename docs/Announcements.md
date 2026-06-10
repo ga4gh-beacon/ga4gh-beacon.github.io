@@ -47,12 +47,16 @@
 
 <div style="
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 16px;
+  padding: 16px 0;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
 ">
 
 <div style="
+    flex: 0 0 280px;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -77,6 +81,7 @@
   </div>
 
   <div style="
+    flex: 0 0 280px;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -101,6 +106,7 @@
   </div>
 
 <div style="
+    flex: 0 0 280px;  
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
