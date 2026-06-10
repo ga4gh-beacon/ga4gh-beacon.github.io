@@ -55,31 +55,6 @@
   -webkit-overflow-scrolling: touch;
 ">
 
-<div style="
-    flex: 0 0 280px;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    padding: 20px;
-    width: 280px;
-    height: 450px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    margin: 10px;
-  ">
-    <img src="../img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
-    <strong>Beacon in the 13th Plenary Meeting Report</strong>
-    <p style="
-      font-size: 14px;
-      margin: 10px 0;
-      height: 120px;
-    ">
-      The GA4GH Plenary Meeting Report was released on November 7th. Get a glimpse on the Beacon sessions gathered in the document.</p>
-    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
-  </div>
-
   <div style="
     flex: 0 0 280px;
     background-color: #f9f9f9;
@@ -126,6 +101,31 @@
       margin: 10px 0;
       height: 120px;
     ">
-      GA4GH April Connect 2026 will take place in Montreal, Canada, from 14 to 17 April 2026. Please follow the GA4GH channels and website for more information soon.</p>
+      GA4GH April Connect 2026 took place in Montreal, Canada, from 14 to 17 April 2026. Please follow the GA4GH channels and website for more information.</p>
     <a href="https://www.ga4gh.org/event/april-connect-2026/">Check it out</a>
+  </div>
+
+  <div style="
+    flex: 0 0 280px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 10px;
+  ">
+    <img src="../img/uppsala.jpeg" width="270" style="border-radius: 8px;"><br>
+    <strong>Beacon in the 13th Plenary Meeting Report</strong>
+    <p style="
+      font-size: 14px;
+      margin: 10px 0;
+      height: 120px;
+    ">
+      The GA4GH Plenary Meeting Report was released on November 7th 2025. Get a glimpse on the Beacon sessions gathered in the document.</p>
+    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
   </div>
