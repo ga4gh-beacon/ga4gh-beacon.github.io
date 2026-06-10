@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="661.76" viewBox="0 0 1920 661.76">
+  <text transform="translate(475.9 43.09)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="31.47" font-weight="700"><tspan x="0" y="0">2014</tspan></text>
+  <text transform="translate(845.4 43.09)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="31.47" font-weight="700"><tspan x="0" y="0">2016</tspan></text>
+  <text transform="translate(1217.41 43.09)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="31.47" font-weight="700"><tspan x="0" y="0">2019</tspan></text>
+  <text transform="translate(521.07 406.28)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="31.47" font-weight="700"><tspan x="0" y="0">2022</tspan></text>
+  <text transform="translate(934.37 407.46)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="31.47" font-weight="700"><tspan x="0" y="0">2024</tspan></text>
+  <text transform="translate(1329.78 406.24)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="49.28" font-weight="700"><tspan x="0" y="0">2025</tspan></text>
+  <g>
+    <line x1="512.2" y1="67.92" x2="515.2" y2="67.92" fill="none" stroke="#00665a" stroke-miterlimit="10" stroke-width="4"/>
+    <path d="M521.21,67.92h905.33c15.6,0,28.24,12.65,28.24,28.24v199.75c0,15.6-12.65,28.25-28.25,28.24l-988.18-.18c-15.6,0-28.25,12.64-28.25,28.24v51.25c0,15.6,12.65,28.24,28.24,28.24h932.55" fill="none" stroke="#00665a" stroke-dasharray="6.01 6.01" stroke-miterlimit="10" stroke-width="4"/>
+    <line x1="1373.91" y1="431.72" x2="1376.91" y2="431.72" fill="none" stroke="#00665a" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <circle cx="512.2" cy="68.69" r="8.87" fill="#00665a"/>
+  <circle cx="880.4" cy="68.43" r="8.87" fill="#00665a"/>
+  <circle cx="969.37" cy="431.72" r="8.87" fill="#00665a"/>
+  <circle cx="554.14" cy="431.72" r="8.87" fill="#00665a"/>
+  <circle cx="1253.18" cy="67.92" r="8.87" fill="#00665a"/>
+  <circle cx="1384.59" cy="431.72" r="16.59" fill="#00665a"/>
+  <text transform="translate(411.73 106.47)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Initial concept of </tspan><tspan x="54.79" y="23.76">Beacon</tspan></text>
+  <text transform="translate(765.76 106.47)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Release of Beacon </tspan><tspan x="73.79" y="23.76">API v1</tspan></text>
+  <text transform="translate(1153.75 106.47)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Development of </tspan><tspan x="-12.67" y="23.76">Beacon v2 begins</tspan></text>
+  <text transform="translate(406.33 473.61)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Beacon</tspan><tspan x="91.36" y="0" letter-spacing="-.04em"> </tspan><tspan x="97.44" y="0">API v2 approved </tspan><tspan x="19.91" y="23.76">as GA4GH Standards</tspan></text>
+  <text transform="translate(889.98 473.61)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Expansion of </tspan><tspan x="-37.25" y="23.76">Beacon community</tspan></text>
+  <text transform="translate(1204.03 473.61)" fill="#00665a" font-family="Arial-BoldMT, Arial" font-size="25.29" font-weight="700"><tspan x="0" y="0">Launch of the GA4GH Beacon </tspan><tspan x="45.68" y="23.76">Implementation Group</tspan></text>
+  <text transform="translate(379.19 159.23)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">Initial concept introduced by </tspan><tspan x="13.14" y="22.99">ELIXIR and EMBL-EBI to </tspan><tspan x="26.25" y="45.98">facilitate genomic data </tspan><tspan x="85.5" y="68.97">discover</tspan><tspan x="165.41" y="68.97" letter-spacing="-.07em">y</tspan><tspan x="174.55" y="68.97">.</tspan></text>
+  <text transform="translate(770.05 159.23)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">Beacon v1.0 supported </tspan><tspan x="-27.4" y="22.99">simple yes/no queries. It was </tspan><tspan x="-13.11" y="45.98">widely adopted by various </tspan><tspan x="-19.07" y="68.97">organizations and research </tspan><tspan x="56.68" y="91.97">institutions.</tspan></text>
+  <text transform="translate(1088.74 159.23)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">Expansion of the Beacon concept </tspan><tspan x="25.65" y="22.99">to enable detailed searches, </tspan><tspan x="-10.14" y="45.98">including phenotypes and extensive </tspan><tspan x="1.18" y="68.97">metadata annotations, enhancing </tspan><tspan x="42.59" y="91.97">scalability and versatilit</tspan><tspan x="262.04" y="91.97" letter-spacing="-.07em">y</tspan><tspan x="271.18" y="91.97">.</tspan></text>
+  <text transform="translate(383.56 531.1)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">Beacon v2 adopted various GA4GH </tspan><tspan x="8.94" y="22.99">standard schemas and introduced </tspan><tspan x="6.56" y="45.98">significant enhancements, such as </tspan><tspan x="1.19" y="68.97">extended genomic variation queries </tspan><tspan x=".59" y="91.97">and retrieval of detailed sample and </tspan><tspan x="109.74" y="114.96">subject data.</tspan></text>
+  <text transform="translate(797.6 531.1)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">Special Beacon task forces, Beacon </tspan><tspan x="22.07" y="22.99">Scouts, were established under </tspan><tspan x="36.99" y="45.98">GA4GH in collaboration with </tspan><tspan x="28.04" y="68.97">developers, implementers and </tspan><tspan x="9.54" y="91.97">researchers to drive the continued </tspan><tspan x="15.5" y="114.96">development of the specification.</tspan></text>
+  <text transform="translate(1242.66 531.1)" font-family="ArialMT, Arial" font-size="21.46"><tspan x="0" y="0">The forum aims at addressing </tspan><tspan x="-14.31" y="22.99">real-world needs arising from the </tspan><tspan x="14.31" y="45.98">discussions with users and </tspan><tspan x="74.55" y="68.97">implementers.</tspan></text>
+</svg>
