@@ -77,7 +77,7 @@
       height: 135px;
     ">
       This meeting series focuses on knowledge sharing and collaboration to support Beacon's integration and innovation. The NAGEN-Data project will present its Beacon implementation in this session.</p>
-    <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Check it out</a>
+    <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Learn more</a>
   </div>
 
 <div style="
@@ -102,7 +102,7 @@
       height: 120px;
     ">
       GA4GH April Connect 2026 took place in Montreal, Canada, from 14 to 17 April 2026. Please follow the GA4GH channels and website for more information.</p>
-    <a href="https://www.ga4gh.org/event/april-connect-2026/">Check it out</a>
+    <a href="https://www.ga4gh.org/event/april-connect-2026/">More information</a>
   </div>
 
   <div style="
@@ -127,5 +127,5 @@
       height: 120px;
     ">
       The GA4GH Plenary Meeting Report was released on November 7th 2025. Get a glimpse on the Beacon sessions gathered in the document.</p>
-    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Check it out</a>
+    <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Further details</a>
   </div>
