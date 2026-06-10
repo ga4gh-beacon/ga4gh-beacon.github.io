@@ -79,7 +79,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
       height: 120px;
     ">
       The GA4GH Plenary Meeting will take place in Singapore from September 28th to October 2nd. Please follow the GA4GH channels and website for more information.</p>
-    <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Check it out</a>
+    <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Registration open</a>
   </div>
 
 </div>
