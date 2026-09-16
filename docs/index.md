@@ -71,6 +71,31 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
+    <img src="../img/impact-data_workshop.png" width="270" style="border-radius: 8px;"><br>
+    <strong>IMPaCT-Data Workshop on Beacon: 21-10-2026</strong>
+    <p style="
+      font-size: 14px;
+      margin: 10px 0;
+      height: 120px;
+    ">
+      Online workshop on Beacon deployment and integration into the Beacon Network.</p>
+    <a href="https://impact-data.bsc.es/news/20260928_talleres_impact-data-2026/">More information</a>
+  </div>
+
+<div style="
+    flex: 0 0 280px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 10px;
+  ">
     <img src="./img/GA4GH-Plenary_2026.png" width="270" style="border-radius: 8px;"><br>
     <strong>GA4GH Plenary Meeting 2026</strong>
     <p style="
