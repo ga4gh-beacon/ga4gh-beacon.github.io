@@ -10,9 +10,12 @@
 
 <div style="
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 16px;
+  padding: 16px 0;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
 ">
 
 <div style="
