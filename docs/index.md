@@ -113,7 +113,6 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 
 <h1 align="center">Latest deployments</h1>
 
-> [!NOTE]
 🟣 **Beacon Cancer Registries** - *September 2026*
 > Up and running again.
 > [Discover the page here](#).
