@@ -71,7 +71,7 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="../img/impact-data_workshop.png" width="270" style="border-radius: 8px;"><br>
+    <img src="./img/impact-data_workshop.png" width="270" style="border-radius: 8px;"><br>
     <strong>IMPaCT-Data Workshop on Beacon: 21-10-2026</strong>
     <p style="
       font-size: 14px;
@@ -110,3 +110,19 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 </div>
 
 <p align="center"><a href="/Announcements">Check all the announcements</a>.</p>
+
+<h1 align="center">Latest deployments</h1>
+
+```
+🟣 **Beacon Cancer Registries** - *September 2026*
+> Up and running again.
+> [Discover the page here](#).
+
+🟣 **Beacon EOSC4Cancer UI** - *September 2026*
+> Updated.
+> [Discover the page here](#).
+
+🟣 **GDI Beacon Spain** - *September 2026*
+> Now in production.
+> [Discover the page here](#).
+```
