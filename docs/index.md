@@ -110,17 +110,3 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
 </div>
 
 <p align="center"><a href="/Announcements">Check all the announcements</a>.</p>
-
-<h1 align="center">Latest deployments</h1>
-
-🟣 **Beacon Cancer Registries** - *September 2026*
-> Up and running again.
-> [Discover the page here](#).
-
-🟣 **Beacon EOSC4Cancer UI** - *September 2026*
-> Updated.
-> [Discover the page here](#).
-
-🟣 **GDI Beacon Spain** - *September 2026*
-> Now in production.
-> [Discover the page here](#).
