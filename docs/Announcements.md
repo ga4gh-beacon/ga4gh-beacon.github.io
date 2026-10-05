@@ -10,6 +10,8 @@
 
 <div style="
   display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   gap: 16px;
