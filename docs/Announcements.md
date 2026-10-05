@@ -20,6 +20,7 @@
 
 <div style="
     flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -45,6 +46,7 @@
 
 <div style="
     flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -86,6 +88,7 @@
 
 <div style="
     flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -113,6 +116,7 @@
 
 <div style="
     flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -137,7 +141,8 @@
 </div>
 
 <div style="
-    flex: 0 0 280px;  
+    flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
@@ -163,6 +168,7 @@
 
 <div style="
     flex: 0 0 280px;
+    scroll-snap-align: start;
     background-color: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
