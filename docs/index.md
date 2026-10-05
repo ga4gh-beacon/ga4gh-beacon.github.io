@@ -96,15 +96,15 @@ Explore the features that make data sharing with Beacon simple, flexible and sca
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="./img/GA4GH-Plenary_2026.png" width="270" style="border-radius: 8px;"><br>
-    <strong>GA4GH Plenary Meeting 2026</strong>
+    <img src="./img/Beacon-Implementation-Forum_OCT26.png" width="270" style="border-radius: 8px;"><br>
+    <strong>Beacon Implementers Forum: 2026-10-28</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
       height: 120px;
     ">
-      The GA4GH Plenary Meeting will take place in Singapore from September 28th to October 2nd. Please follow the GA4GH channels and website for more information.</p>
-    <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Registration open</a>
+      This meeting series focuses on knowledge sharing and collaboration to support Beacon's integration and innovation.</p>
+    <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Learn more</a>
   </div>
 
 </div>
