@@ -33,7 +33,7 @@
     margin: 10px;
   ">
     <img src="../img/impact-data_workshop.png" width="270" style="border-radius: 8px;"><br>
-    <strong>IMPaCT-Data Workshop on Beacon: 21-10-2026</strong>
+    <strong>IMPaCT-Data Workshop on Beacon: 2026-10-21</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
@@ -57,15 +57,15 @@
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     margin: 10px;
   ">
-    <img src="../img/GA4GH-Plenary_2026.png" width="270" style="border-radius: 8px;"><br>
-    <strong>GA4GH Plenary Meeting 2026</strong>
+    <img src="../img/Beacon-Implementation-Forum_OCT26.png" width="270" style="border-radius: 8px;"><br>
+    <strong>Beacon Implementers Forum: 2026-10-28</strong>
     <p style="
       font-size: 14px;
       margin: 10px 0;
       height: 120px;
     ">
-      The GA4GH Plenary Meeting will take place in Singapore from September 28th to October 2nd. Please follow the GA4GH channels and website for more information.</p>
-    <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Registration open</a>
+      This meeting series focuses on knowledge sharing and collaboration to support Beacon's integration and innovation.</p>
+    <a href="https://docs.google.com/document/d/1dyW4h15DgFLaJLAZXO4hS6RsLDksxpNnOHkuJI4uVgY/edit?tab=t.0">Learn more</a>
   </div>
 
 </div><br>
@@ -83,6 +83,33 @@
   scrollbar-width: thin;
   -webkit-overflow-scrolling: touch;
 ">
+
+<div style="
+    flex: 0 0 280px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    padding: 20px;
+    width: 280px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin: 10px;
+  ">
+    <img src="../img/GA4GH-Plenary_2026.png" width="270" style="border-radius: 8px;"><br>
+    <strong>GA4GH Plenary Meeting 2026</strong>
+    <p style="
+      font-size: 14px;
+      margin: 10px 0;
+      height: 120px;
+    ">
+      The GA4GH Plenary Meeting will take place in Singapore from September 28th to October 2nd. Please follow the GA4GH channels and website for more information.</p>
+    <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Learn more</a>
+  </div>
+
+</div>
 
   <div style="
     flex: 0 0 280px;
@@ -155,6 +182,6 @@
       margin: 10px 0;
       height: 120px;
     ">
-      The GA4GH Plenary Meeting Report was released on November 7th 2025. Get a glimpse on the Beacon sessions gathered in the document.</p>
+      The GA4GH Plenary Meeting Report was released on November 7th 2025. Get a glimpse of the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Further details</a>
   </div>
