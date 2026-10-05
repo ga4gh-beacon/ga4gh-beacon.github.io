@@ -114,8 +114,6 @@
     <a href="https://broadinstitute.swoogo.com/ga4gh-14th-plenary/11058020">Learn more</a>
 </div>
 
-</div>
-
 <div style="
     flex: 0 0 280px;
     scroll-snap-align: start;
@@ -192,4 +190,6 @@
     ">
       The GA4GH Plenary Meeting Report was released on November 7th 2025. Get a glimpse of the Beacon sessions gathered in the document.</p>
     <a href="https://www.ga4gh.org/document/ga4gh-13th-plenary-meeting-report/">Further details</a>
+</div>
+
 </div>
